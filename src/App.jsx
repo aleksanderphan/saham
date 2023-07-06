@@ -1,11 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavigationBar from './pages/NavigationBar';
-import Home from './pages/Home';
 import ListSaham from './pages/ListSaham';
-import Prediction from './pages/Prediction';
-import Account from './pages/Account';
-import PredictSaham from './pages/PredictSaham';
+import Prediction from './pages/PredictionList';
+import About from './pages/AboutModal';
+import PredictSaham from './process/PredictSaham';
 
 function App() {
   return (
@@ -14,8 +13,8 @@ function App() {
         <Routes>
           <Route path='/' element={<ListSaham />} />
           <Route path='/prediction' element={<Prediction />} />
-          <Route path='/account' element={<Account />} />
-          <Route path='/new-page/:ticker' element={<PredictSaham />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/predict/:ticker' element={<PredictSaham />} />
         </Routes>
         <NavigationBar />
       </BrowserRouter>

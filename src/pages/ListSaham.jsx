@@ -21,11 +21,6 @@ function ListSaham() {
       });
   }, []);
 
-  const handleLastUpdateClick = () => {
-    const currentTime = new Date().toLocaleTimeString();
-    setLastUpdate(currentTime);
-  };
-
   return (
     <div className='flex items-center justify-center mt-4'>
       <div className='w-full max-w-md p-4 rounded-lg shadow sm:p-8 bg-gray-700 border-gray-600'>
@@ -33,11 +28,8 @@ function ListSaham() {
           <h5 className='text-xl font-bold leading-none text-white'>
             Daftar Saham
           </h5>
-          <p
-            className='text-xs font-medium hover:underline hover:cursor-pointer select-none text-white'
-            onClick={handleLastUpdateClick}
-          >
-            Last Update: {lastUpdate}
+          <p className='text-xs font-medium select-none text-white'>
+            Last Updated: {lastUpdate}
           </p>
         </div>
         <div className='h-96 overflow-auto custom-scrollbar'>
@@ -50,7 +42,7 @@ function ListSaham() {
                       <div className='w-12 h-12 bg-gray-600 rounded-md'></div>
                     </div>
                     <div className='flex-1 min-w-0'>
-                      <div className='h-4 bg-gray-600 rounded mb-1'></div>
+                      <div className='h-4 w-1/4 bg-gray-600 rounded mb-1'></div>
                       <div className='h-4 w-2/3 bg-gray-600 rounded'></div>
                     </div>
                   </div>
@@ -71,8 +63,8 @@ function ListSaham() {
                     </div>
                     <div className='flex-1 min-w-0'>
                       <Link
-                        to={`/new-page/${saham.ticker}`}
-                        className='text-sm font-medium truncate text-white'
+                        to={`/predict/${saham.ticker}`}
+                        className='text-sm font-medium truncate text-white hover:underline'
                       >
                         {saham.ticker}
                       </Link>
