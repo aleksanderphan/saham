@@ -12,9 +12,9 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<ListSaham />} />
+          <Route path='/predict/:ticker' element={<PredictSaham />} />
           <Route path='/prediction' element={<Prediction />} />
           <Route path='/about' element={<About />} />
-          <Route path='/predict/:ticker' element={<PredictSaham />} />
         </Routes>
         <NavigationBar />
       </BrowserRouter>
