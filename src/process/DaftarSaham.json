@@ -1,0 +1,4347 @@
+[
+  {
+	"kode": "AALI",
+	"nama": "Astra Agro Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/AALI.jpg"
+  },
+  {
+	"kode": "ABBA",
+	"nama": "Mahaka Media Tbk",
+	"logo": "https://s3.goapi.id/logo/ABBA.jpg"
+  },
+  {
+	"kode": "ABDA",
+	"nama": "Asuransi Bina Dana Arta Tbk",
+	"logo": "https://s3.goapi.id/logo/ABDA.jpg"
+  },
+  {
+	"kode": "ABMM",
+	"nama": "ABM Investama Tbk",
+	"logo": "https://s3.goapi.id/logo/ABMM.jpg"
+  },
+  {
+	"kode": "ACES",
+	"nama": "Ace Hardware Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ACES.jpg"
+  },
+  {
+	"kode": "ACST",
+	"nama": "PT Acset Indonusa Tbk.",
+	"logo": "https://s3.goapi.id/logo/ACST.jpg"
+  },
+  {
+	"kode": "ADCP",
+	"nama": "PT Adhi Commuter Properti Tbk",
+	"logo": "https://s3.goapi.id/logo/ADCP.jpg"
+  },
+  {
+	"kode": "ADES",
+	"nama": "Akasha Wira International Tbk  Tbk",
+	"logo": "https://s3.goapi.id/logo/ADES.jpg"
+  },
+  {
+	"kode": "ADFO",
+	"nama": "PT Adindo Foresta Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ADFO.jpg"
+  },
+  {
+	"kode": "ADHI",
+	"nama": "PT Adhi Karya (Persero) Tbk.",
+	"logo": "https://s3.goapi.id/logo/ADHI.jpg"
+  },
+  {
+	"kode": "ADMF",
+	"nama": "Adira Dinamika Multi Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/ADMF.jpg"
+  },
+  {
+	"kode": "ADMG",
+	"nama": "Polychem Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ADMG.jpg"
+  },
+  {
+	"kode": "ADMR",
+	"nama": "PT Adaro Minerals Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ADMR.jpg"
+  },
+  {
+	"kode": "ADRO",
+	"nama": "Adaro Energy Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ADRO.jpg"
+  },
+  {
+	"kode": "AGAR",
+	"nama": "PT Asia Sejahtera Mina Tbk",
+	"logo": "https://s3.goapi.id/logo/AGAR.jpg"
+  },
+  {
+	"kode": "AGII",
+	"nama": "PT Aneka Gas Industri Tbk.",
+	"logo": "https://s3.goapi.id/logo/AGII.jpg"
+  },
+  {
+	"kode": "AGRO",
+	"nama": "PT Bank Raya Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/AGRO.jpg"
+  },
+  {
+	"kode": "AGRS",
+	"nama": "PT Bank IBK Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/AGRS.jpg"
+  },
+  {
+	"kode": "AHAP",
+	"nama": "Asuransi Harta Aman Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/AHAP.jpg"
+  },
+  {
+	"kode": "AIMS",
+	"nama": "Akbar Indomakmur Stimec Tbk",
+	"logo": "https://s3.goapi.id/logo/AIMS.jpg"
+  },
+  {
+	"kode": "AISA",
+	"nama": "PT FKS Food Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/AISA.jpg"
+  },
+  {
+	"kode": "AKKU",
+	"nama": "PT Anugerah Kagum Karya Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/AKKU.jpg"
+  },
+  {
+	"kode": "AKPI",
+	"nama": "Argha Karya Prima Ind. Tbk",
+	"logo": "https://s3.goapi.id/logo/AKPI.jpg"
+  },
+  {
+	"kode": "AKRA",
+	"nama": "PT AKR Corporindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/AKRA.jpg"
+  },
+  {
+	"kode": "AKSI",
+	"nama": "PT Mineral Sumberdaya Mandiri Tbk",
+	"logo": "https://s3.goapi.id/logo/AKSI.jpg"
+  },
+  {
+	"kode": "ALDO",
+	"nama": "Alkindo Naratama Tbk",
+	"logo": "https://s3.goapi.id/logo/ALDO.jpg"
+  },
+  {
+	"kode": "ALKA",
+	"nama": "Alakasa Industrindo Tbk",
+	"logo": "https://s3.goapi.id/logo/ALKA.jpg"
+  },
+  {
+	"kode": "ALMI",
+	"nama": "Alumindo Light Metal Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/ALMI.jpg"
+  },
+  {
+	"kode": "ALTO",
+	"nama": "Tri Banyan Tirta Tbk",
+	"logo": "https://s3.goapi.id/logo/ALTO.jpg"
+  },
+  {
+	"kode": "AMAG",
+	"nama": "Asuransi Multi Artha Guna Tbk",
+	"logo": "https://s3.goapi.id/logo/AMAG.jpg"
+  },
+  {
+	"kode": "AMAN",
+	"nama": "PT Makmur Berkah Amanda Tbk.",
+	"logo": "https://s3.goapi.id/logo/AMAN.jpg"
+  },
+  {
+	"kode": "AMAR",
+	"nama": "PT Bank Amar Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/AMAR.jpg"
+  },
+  {
+	"kode": "AMFG",
+	"nama": "Asahimas Flat Glass Tbk",
+	"logo": "https://s3.goapi.id/logo/AMFG.jpg"
+  },
+  {
+	"kode": "AMIN",
+	"nama": "PT Ateliers Mecaniques D Indonesie Tbk.",
+	"logo": "https://s3.goapi.id/logo/AMIN.jpg"
+  },
+  {
+	"kode": "AMMS",
+	"nama": "PT Agung Menjangan Mas Tbk",
+	"logo": "https://s3.goapi.id/logo/AMMS.jpg"
+  },
+  {
+	"kode": "AMOR",
+	"nama": "PT Ashmore Asset Management Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/AMOR.jpg"
+  },
+  {
+	"kode": "AMRT",
+	"nama": "PT Sumber Alfaria Trijaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/AMRT.jpg"
+  },
+  {
+	"kode": "ANDI",
+	"nama": "PT Andira Agro Tbk",
+	"logo": "https://s3.goapi.id/logo/ANDI.jpg"
+  },
+  {
+	"kode": "ANJT",
+	"nama": "PT Austindo Nusantara Jaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/ANJT.jpg"
+  },
+  {
+	"kode": "ANTM",
+	"nama": "Aneka Tambang Tbk.",
+	"logo": "https://s3.goapi.id/logo/ANTM.jpg"
+  },
+  {
+	"kode": "APEX",
+	"nama": "Apexindo Pratama Duta Tbk",
+	"logo": "https://s3.goapi.id/logo/APEX.jpg"
+  },
+  {
+	"kode": "APIC",
+	"nama": "PACIFIC STRATEGIC FINANCIAL Tbk",
+	"logo": "https://s3.goapi.id/logo/APIC.jpg"
+  },
+  {
+	"kode": "APII",
+	"nama": "PT Arita Prima Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/APII.jpg"
+  },
+  {
+	"kode": "APLI",
+	"nama": "Asiaplast Industries Tbk",
+	"logo": "https://s3.goapi.id/logo/APLI.jpg"
+  },
+  {
+	"kode": "APLN",
+	"nama": "PT Agung Podomoro Land Tbk.",
+	"logo": "https://s3.goapi.id/logo/APLN.jpg"
+  },
+  {
+	"kode": "APOL",
+	"nama": "Arpeni Pratama Ocean Line Tbk",
+	"logo": "https://s3.goapi.id/logo/APOL.jpg"
+  },
+  {
+	"kode": "ARCI",
+	"nama": "PT Archi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ARCI.jpg"
+  },
+  {
+	"kode": "ARGO",
+	"nama": "Argo Pantes Tbk",
+	"logo": "https://s3.goapi.id/logo/ARGO.jpg"
+  },
+  {
+	"kode": "ARII",
+	"nama": "Atlas Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/ARII.jpg"
+  },
+  {
+	"kode": "ARKA",
+	"nama": "PT Arkha Jayanti Persada Tbk.",
+	"logo": "https://s3.goapi.id/logo/ARKA.jpg"
+  },
+  {
+	"kode": "ARKO",
+	"nama": "PT Arkora Hydro Tbk.",
+	"logo": "https://s3.goapi.id/logo/ARKO.jpg"
+  },
+  {
+	"kode": "ARMY",
+	"nama": "PT Armidian Karyatama Tbk",
+	"logo": "https://s3.goapi.id/logo/ARMY.jpg"
+  },
+  {
+	"kode": "ARNA",
+	"nama": "Arwana Citramulia Tbk",
+	"logo": "https://s3.goapi.id/logo/ARNA.jpg"
+  },
+  {
+	"kode": "ARTA",
+	"nama": "Arthavest Tbk",
+	"logo": "https://s3.goapi.id/logo/ARTA.jpg"
+  },
+  {
+	"kode": "ARTI",
+	"nama": "Ratu Prabu Energi Tbk",
+	"logo": "https://s3.goapi.id/logo/ARTI.jpg"
+  },
+  {
+	"kode": "ARTO",
+	"nama": "PT Bank Jago Tbk.",
+	"logo": "https://s3.goapi.id/logo/ARTO.jpg"
+  },
+  {
+	"kode": "ASBI",
+	"nama": "Asuransi Bintang Tbk",
+	"logo": "https://s3.goapi.id/logo/ASBI.jpg"
+  },
+  {
+	"kode": "ASDM",
+	"nama": "Asuransi Dayin Mitra Tbk",
+	"logo": "https://s3.goapi.id/logo/ASDM.jpg"
+  },
+  {
+	"kode": "ASGR",
+	"nama": "Astra Graphia Tbk",
+	"logo": "https://s3.goapi.id/logo/ASGR.jpg"
+  },
+  {
+	"kode": "ASHA",
+	"nama": "PT Cilacap Samudera Fishing Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/ASHA.jpg"
+  },
+  {
+	"kode": "ASII",
+	"nama": "Astra International Tbk",
+	"logo": "https://s3.goapi.id/logo/ASII.jpg"
+  },
+  {
+	"kode": "ASJT",
+	"nama": "Asuransi Jasa Tania Tbk",
+	"logo": "https://s3.goapi.id/logo/ASJT.jpg"
+  },
+  {
+	"kode": "ASLC",
+	"nama": "PT Autopedia Sukses Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/ASLC.jpg"
+  },
+  {
+	"kode": "ASMI",
+	"nama": "PT Asuransi Maximus Graha Persada Tbk.",
+	"logo": "https://s3.goapi.id/logo/ASMI.jpg"
+  },
+  {
+	"kode": "ASPI",
+	"nama": "PT Andalan Sakti Primaindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/ASPI.jpg"
+  },
+  {
+	"kode": "ASRI",
+	"nama": "ALAM SUTERA REALTY Tbk",
+	"logo": "https://s3.goapi.id/logo/ASRI.jpg"
+  },
+  {
+	"kode": "ASRM",
+	"nama": "Asuransi Ramayana Tbk",
+	"logo": "https://s3.goapi.id/logo/ASRM.jpg"
+  },
+  {
+	"kode": "ASSA",
+	"nama": "Adi Sarana Armada Tbk",
+	"logo": "https://s3.goapi.id/logo/ASSA.jpg"
+  },
+  {
+	"kode": "ATAP",
+	"nama": "PT Trimitra Prawara Goldland Tbk ",
+	"logo": "https://s3.goapi.id/logo/ATAP.jpg"
+  },
+  {
+	"kode": "ATIC",
+	"nama": "PT Anabatic Technologies Tbk",
+	"logo": "https://s3.goapi.id/logo/ATIC.jpg"
+  },
+  {
+	"kode": "AUTO",
+	"nama": "Astra Otoparts Tbk",
+	"logo": "https://s3.goapi.id/logo/AUTO.jpg"
+  },
+  {
+	"kode": "AVIA",
+	"nama": "PT Avia Avian Tbk",
+	"logo": "https://s3.goapi.id/logo/AVIA.jpg"
+  },
+  {
+	"kode": "AXIO",
+	"nama": "PT Tera Data Indonusa Tbk",
+	"logo": "https://s3.goapi.id/logo/AXIO.jpg"
+  },
+  {
+	"kode": "AYLS",
+	"nama": "PT Agro Yasa Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/AYLS.jpg"
+  },
+  {
+	"kode": "BABP",
+	"nama": "PT Bank MNC Internasional Tbk.",
+	"logo": "https://s3.goapi.id/logo/BABP.jpg"
+  },
+  {
+	"kode": "BACA",
+	"nama": "PT Bank Capital Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BACA.jpg"
+  },
+  {
+	"kode": "BAJA",
+	"nama": "Saranacentral Bajatama Tbk",
+	"logo": "https://s3.goapi.id/logo/BAJA.jpg"
+  },
+  {
+	"kode": "BALI",
+	"nama": "PT Bali Towerindo Sentra Tbk. ",
+	"logo": "https://s3.goapi.id/logo/BALI.jpg"
+  },
+  {
+	"kode": "BANK",
+	"nama": "PT Bank Aladin Syariah Tbk",
+	"logo": "https://s3.goapi.id/logo/BANK.jpg"
+  },
+  {
+	"kode": "BAPA",
+	"nama": "Bekasi Asri Pemula Tbk",
+	"logo": "https://s3.goapi.id/logo/BAPA.jpg"
+  },
+  {
+	"kode": "BAPI",
+	"nama": "PT Bhakti Agung Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/BAPI.jpg"
+  },
+  {
+	"kode": "BATA",
+	"nama": "Sepatu Bata Tbk",
+	"logo": "https://s3.goapi.id/logo/BATA.jpg"
+  },
+  {
+	"kode": "BAUT",
+	"nama": "PT Mitra Angkasa Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/BAUT.jpg"
+  },
+  {
+	"kode": "BAYU",
+	"nama": "Bayu Buana Tbk",
+	"logo": "https://s3.goapi.id/logo/BAYU.jpg"
+  },
+  {
+	"kode": "BBCA",
+	"nama": "PT Bank Central Asia Tbk.",
+	"logo": "https://s3.goapi.id/logo/BBCA.jpg"
+  },
+  {
+	"kode": "BBHI",
+	"nama": "PT Allo Bank Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BBHI.jpg"
+  },
+  {
+	"kode": "BBKP",
+	"nama": "PT Bank KB Bukopin Tbk",
+	"logo": "https://s3.goapi.id/logo/BBKP.jpg"
+  },
+  {
+	"kode": "BBLD",
+	"nama": "Buana Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/BBLD.jpg"
+  },
+  {
+	"kode": "BBMD",
+	"nama": "PT Bank Mestika Dharma Tbk.",
+	"logo": "https://s3.goapi.id/logo/BBMD.jpg"
+  },
+  {
+	"kode": "BBNI",
+	"nama": "PT Bank Negara Indonesia (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/BBNI.jpg"
+  },
+  {
+	"kode": "BBRI",
+	"nama": "PT Bank Rakyat Indonesia (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/BBRI.jpg"
+  },
+  {
+	"kode": "BBRM",
+	"nama": "Pelayaran Nasional Bina Buana Raya Tbk",
+	"logo": "https://s3.goapi.id/logo/BBRM.jpg"
+  },
+  {
+	"kode": "BBSI",
+	"nama": "PT Bank Bisnis Internasional Tbk.",
+	"logo": "https://s3.goapi.id/logo/BBSI.jpg"
+  },
+  {
+	"kode": "BBSS",
+	"nama": "PT Bumi Benowo Sukses Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/BBSS.jpg"
+  },
+  {
+	"kode": "BBTN",
+	"nama": "PT Bank Tabungan Negara (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/BBTN.jpg"
+  },
+  {
+	"kode": "BBYB",
+	"nama": "PT Bank Neo Commerce Tbk.",
+	"logo": "https://s3.goapi.id/logo/BBYB.jpg"
+  },
+  {
+	"kode": "BCAP",
+	"nama": "MNC Kapital Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BCAP.jpg"
+  },
+  {
+	"kode": "BCIC",
+	"nama": "PT Bank JTrust Indonesia Tbk. ",
+	"logo": "https://s3.goapi.id/logo/BCIC.jpg"
+  },
+  {
+	"kode": "BCIP",
+	"nama": "Bumi Citra Permai Tbk",
+	"logo": "https://s3.goapi.id/logo/BCIP.jpg"
+  },
+  {
+	"kode": "BDKR",
+	"nama": "PT Berdikari Pondasi Perkasa Tbk.",
+	"logo": "https://s3.goapi.id/logo/BDKR.jpg"
+  },
+  {
+	"kode": "BDMN",
+	"nama": "PT Bank Danamon Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BDMN.jpg"
+  },
+  {
+	"kode": "BEBS",
+	"nama": "PT Berkah Beton Sadaya Tbk",
+	"logo": "https://s3.goapi.id/logo/BEBS.jpg"
+  },
+  {
+	"kode": "BEEF",
+	"nama": "PT Estika Tata Tiara Tbk.",
+	"logo": "https://s3.goapi.id/logo/BEEF.jpg"
+  },
+  {
+	"kode": "BEER",
+	"nama": "PT Jobubu Jarum Minahasa Tbk",
+	"logo": "https://s3.goapi.id/logo/BEER.jpg"
+  },
+  {
+	"kode": "BEKS",
+	"nama": "PT Bank Pembangunan Daerah Banten Tbk.",
+	"logo": "https://s3.goapi.id/logo/BEKS.jpg"
+  },
+  {
+	"kode": "BELI",
+	"nama": "PT Global Digital Niaga Tbk",
+	"logo": "https://s3.goapi.id/logo/BELI.jpg"
+  },
+  {
+	"kode": "BELL",
+	"nama": "PT Trisula Textile Industries Tbk",
+	"logo": "https://s3.goapi.id/logo/BELL.jpg"
+  },
+  {
+	"kode": "BESS",
+	"nama": "PT Batulicin Nusantara Maritim Tbk.",
+	"logo": "https://s3.goapi.id/logo/BESS.jpg"
+  },
+  {
+	"kode": "BEST",
+	"nama": "Bekasi Fajar Industrial Estate Tbk",
+	"logo": "https://s3.goapi.id/logo/BEST.jpg"
+  },
+  {
+	"kode": "BFIN",
+	"nama": "BFI Finance Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BFIN.jpg"
+  },
+  {
+	"kode": "BGTG",
+	"nama": "PT Bank Ganesha Tbk.",
+	"logo": "https://s3.goapi.id/logo/BGTG.jpg"
+  },
+  {
+	"kode": "BHAT",
+	"nama": "PT Bhakti Multi Artha Tbk.",
+	"logo": "https://s3.goapi.id/logo/BHAT.jpg"
+  },
+  {
+	"kode": "BHIT",
+	"nama": "PT MNC Investama Tbk.",
+	"logo": "https://s3.goapi.id/logo/BHIT.jpg"
+  },
+  {
+	"kode": "BIKA",
+	"nama": "PT Binakarya Jaya Abadi Tbk.",
+	"logo": "https://s3.goapi.id/logo/BIKA.jpg"
+  },
+  {
+	"kode": "BIKE",
+	"nama": "PT Sepeda Bersama Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BIKE.jpg"
+  },
+  {
+	"kode": "BIMA",
+	"nama": "Primarindo Asia Infrastructure Tbk",
+	"logo": "https://s3.goapi.id/logo/BIMA.jpg"
+  },
+  {
+	"kode": "BINA",
+	"nama": "PT Bank Ina Perdana Tbk.",
+	"logo": "https://s3.goapi.id/logo/BINA.jpg"
+  },
+  {
+	"kode": "BINO",
+	"nama": "PT Perma Plasindo Tbk ",
+	"logo": "https://s3.goapi.id/logo/BINO.jpg"
+  },
+  {
+	"kode": "BIPI",
+	"nama": "PT Astrindo Nusantara Infrastruktur Tbk.",
+	"logo": "https://s3.goapi.id/logo/BIPI.jpg"
+  },
+  {
+	"kode": "BIPP",
+	"nama": "Bhuwanatala Indah Permai Tbk",
+	"logo": "https://s3.goapi.id/logo/BIPP.jpg"
+  },
+  {
+	"kode": "BIRD",
+	"nama": "PT Blue Bird Tbk",
+	"logo": "https://s3.goapi.id/logo/BIRD.jpg"
+  },
+  {
+	"kode": "BISI",
+	"nama": "BISI INTERNATIONAL Tbk",
+	"logo": "https://s3.goapi.id/logo/BISI.jpg"
+  },
+  {
+	"kode": "BJBR",
+	"nama": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+	"logo": "https://s3.goapi.id/logo/BJBR.jpg"
+  },
+  {
+	"kode": "BJTM",
+	"nama": "Bank Pembangunan Daerah Jawa Timur Tbk",
+	"logo": "https://s3.goapi.id/logo/BJTM.jpg"
+  },
+  {
+	"kode": "BKDP",
+	"nama": "Bukit Darmo Property Tbk",
+	"logo": "https://s3.goapi.id/logo/BKDP.jpg"
+  },
+  {
+	"kode": "BKSL",
+	"nama": "Sentul City Tbk",
+	"logo": "https://s3.goapi.id/logo/BKSL.jpg"
+  },
+  {
+	"kode": "BKSW",
+	"nama": "PT Bank QNB Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BKSW.jpg"
+  },
+  {
+	"kode": "BLTA",
+	"nama": "Berlian Laju Tanker Tbk",
+	"logo": "https://s3.goapi.id/logo/BLTA.jpg"
+  },
+  {
+	"kode": "BLTZ",
+	"nama": "PT Graha Layar Prima Tbk.",
+	"logo": "https://s3.goapi.id/logo/BLTZ.jpg"
+  },
+  {
+	"kode": "BLUE",
+	"nama": "PT Berkah Prima Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/BLUE.jpg"
+  },
+  {
+	"kode": "BMAS",
+	"nama": "PT Bank Maspion Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/BMAS.jpg"
+  },
+  {
+	"kode": "BMBL",
+	"nama": "PT Lavender Bina Cendikia Tbk",
+	"logo": "https://s3.goapi.id/logo/BMBL.jpg"
+  },
+  {
+	"kode": "BMHS",
+	"nama": "PT Bundamedik Tbk",
+	"logo": "https://s3.goapi.id/logo/BMHS.jpg"
+  },
+  {
+	"kode": "BMRI",
+	"nama": "PT Bank Mandiri (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/BMRI.jpg"
+  },
+  {
+	"kode": "BMSR",
+	"nama": "Bintang Mitra Semestaraya Tbk",
+	"logo": "https://s3.goapi.id/logo/BMSR.jpg"
+  },
+  {
+	"kode": "BMTR",
+	"nama": "PT Global Mediacom Tbk",
+	"logo": "https://s3.goapi.id/logo/BMTR.jpg"
+  },
+  {
+	"kode": "BNBA",
+	"nama": "Bank Bumi Arta Tbk",
+	"logo": "https://s3.goapi.id/logo/BNBA.jpg"
+  },
+  {
+	"kode": "BNBR",
+	"nama": "Bakrie & Brothers Tbk",
+	"logo": "https://s3.goapi.id/logo/BNBR.jpg"
+  },
+  {
+	"kode": "BNGA",
+	"nama": "PT Bank CIMB Niaga Tbk",
+	"logo": "https://s3.goapi.id/logo/BNGA.jpg"
+  },
+  {
+	"kode": "BNII",
+	"nama": "PT Bank Maybank Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BNII.jpg"
+  },
+  {
+	"kode": "BNLI",
+	"nama": "Bank Permata Tbk",
+	"logo": "https://s3.goapi.id/logo/BNLI.jpg"
+  },
+  {
+	"kode": "BOBA",
+	"nama": "PT Formosa Ingredient Factory Tbk",
+	"logo": "https://s3.goapi.id/logo/BOBA.jpg"
+  },
+  {
+	"kode": "BOGA",
+	"nama": "PT Bintang Oto Global Tbk",
+	"logo": "https://s3.goapi.id/logo/BOGA.jpg"
+  },
+  {
+	"kode": "BOLA",
+	"nama": "PT Bali Bintang Sejahtera Tbk.",
+	"logo": "https://s3.goapi.id/logo/BOLA.jpg"
+  },
+  {
+	"kode": "BOLT",
+	"nama": "PT Garuda Metalindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/BOLT.jpg"
+  },
+  {
+	"kode": "BORN",
+	"nama": "Borneo Lumbung Energi &amp; Metal Tbk",
+	"logo": "https://s3.goapi.id/logo/BORN.jpg"
+  },
+  {
+	"kode": "BOSS",
+	"nama": "PT Borneo Olah Sarana Sukses Tbk.",
+	"logo": "https://s3.goapi.id/logo/BOSS.jpg"
+  },
+  {
+	"kode": "BPFI",
+	"nama": "Batavia Prosperindo Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/BPFI.jpg"
+  },
+  {
+	"kode": "BPII",
+	"nama": "PT Batavia Prosperindo Internasional Tbk.",
+	"logo": "https://s3.goapi.id/logo/BPII.jpg"
+  },
+  {
+	"kode": "BPTR",
+	"nama": "PT Batavia Prosperindo Trans Tbk.",
+	"logo": "https://s3.goapi.id/logo/BPTR.jpg"
+  },
+  {
+	"kode": "BRAM",
+	"nama": "Indo Kordsa Tbk",
+	"logo": "https://s3.goapi.id/logo/BRAM.jpg"
+  },
+  {
+	"kode": "BRIS",
+	"nama": "PT Bank Syariah Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BRIS.jpg"
+  },
+  {
+	"kode": "BRMS",
+	"nama": "Bumi Resources Minerals Tbk",
+	"logo": "https://s3.goapi.id/logo/BRMS.jpg"
+  },
+  {
+	"kode": "BRNA",
+	"nama": "Berlina Tbk",
+	"logo": "https://s3.goapi.id/logo/BRNA.jpg"
+  },
+  {
+	"kode": "BRPT",
+	"nama": "Barito Pacific Tbk",
+	"logo": "https://s3.goapi.id/logo/BRPT.jpg"
+  },
+  {
+	"kode": "BSBK",
+	"nama": "PT Wulandari Bangun Laksana Tbk",
+	"logo": "https://s3.goapi.id/logo/BSBK.jpg"
+  },
+  {
+	"kode": "BSDE",
+	"nama": "PT Bumi Serpong Damai Tbk",
+	"logo": "https://s3.goapi.id/logo/BSDE.jpg"
+  },
+  {
+	"kode": "BSIM",
+	"nama": "Bank Sinarmas Tbk",
+	"logo": "https://s3.goapi.id/logo/BSIM.jpg"
+  },
+  {
+	"kode": "BSML",
+	"nama": "PT Bintang Samudera Mandiri Lines Tbk",
+	"logo": "https://s3.goapi.id/logo/BSML.jpg"
+  },
+  {
+	"kode": "BSSR",
+	"nama": "Baramulti Suksessarana Tbk",
+	"logo": "https://s3.goapi.id/logo/BSSR.jpg"
+  },
+  {
+	"kode": "BSWD",
+	"nama": "Bank of India Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BSWD.jpg"
+  },
+  {
+	"kode": "BTEK",
+	"nama": "Bumi Teknokultura Unggul Tbk",
+	"logo": "https://s3.goapi.id/logo/BTEK.jpg"
+  },
+  {
+	"kode": "BTEL",
+	"nama": "Bakrie Telecom Tbk",
+	"logo": "https://s3.goapi.id/logo/BTEL.jpg"
+  },
+  {
+	"kode": "BTON",
+	"nama": "Betonjaya Manunggal Tbk",
+	"logo": "https://s3.goapi.id/logo/BTON.jpg"
+  },
+  {
+	"kode": "BTPN",
+	"nama": "PT Bank BTPN Tbk",
+	"logo": "https://s3.goapi.id/logo/BTPN.jpg"
+  },
+  {
+	"kode": "BTPS",
+	"nama": "PT Bank BTPN Syariah Tbk.",
+	"logo": "https://s3.goapi.id/logo/BTPS.jpg"
+  },
+  {
+	"kode": "BUAH",
+	"nama": "PT Segar Kumala Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/BUAH.jpg"
+  },
+  {
+	"kode": "BUDI",
+	"nama": "PT Budi Starch & Sweetener Tbk.",
+	"logo": "https://s3.goapi.id/logo/BUDI.jpg"
+  },
+  {
+	"kode": "BUKA",
+	"nama": "PT Bukalapak.com Tbk",
+	"logo": "https://s3.goapi.id/logo/BUKA.jpg"
+  },
+  {
+	"kode": "BUKK",
+	"nama": "Bukaka Teknik Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/BUKK.jpg"
+  },
+  {
+	"kode": "BULL",
+	"nama": "PT Buana Lintas Lautan Tbk.",
+	"logo": "https://s3.goapi.id/logo/BULL.jpg"
+  },
+  {
+	"kode": "BUMI",
+	"nama": "Bumi Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/BUMI.jpg"
+  },
+  {
+	"kode": "BUVA",
+	"nama": "PT Bukit Uluwatu Villa Tbk",
+	"logo": "https://s3.goapi.id/logo/BUVA.jpg"
+  },
+  {
+	"kode": "BVIC",
+	"nama": "Bank Victoria International Tbk",
+	"logo": "https://s3.goapi.id/logo/BVIC.jpg"
+  },
+  {
+	"kode": "BWPT",
+	"nama": "Eagle High Plantations Tbk",
+	"logo": "https://s3.goapi.id/logo/BWPT.jpg"
+  },
+  {
+	"kode": "BYAN",
+	"nama": "Bayan Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/BYAN.jpg"
+  },
+  {
+	"kode": "CAKK",
+	"nama": "PT Cahayaputra Asa Keramik Tbk.",
+	"logo": "https://s3.goapi.id/logo/CAKK.jpg"
+  },
+  {
+	"kode": "CAMP",
+	"nama": "PT Campina Ice Cream Industry Tbk.",
+	"logo": "https://s3.goapi.id/logo/CAMP.jpg"
+  },
+  {
+	"kode": "CANI",
+	"nama": "PT Capitol Nusantara Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/CANI.jpg"
+  },
+  {
+	"kode": "CARE",
+	"nama": "PT Metro Healthcare Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CARE.jpg"
+  },
+  {
+	"kode": "CARS",
+	"nama": "PT Industri dan Perdagangan Bintraco Dharma Tbk",
+	"logo": "https://s3.goapi.id/logo/CARS.jpg"
+  },
+  {
+	"kode": "CASA",
+	"nama": "PT Capital Financial Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CASA.jpg"
+  },
+  {
+	"kode": "CASH",
+	"nama": "PT Cashlez Worldwide Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/CASH.jpg"
+  },
+  {
+	"kode": "CASS",
+	"nama": "Cardig Aero Services Tbk",
+	"logo": "https://s3.goapi.id/logo/CASS.jpg"
+  },
+  {
+	"kode": "CBMF",
+	"nama": "PT Cahaya Bintang Medan Tbk",
+	"logo": "https://s3.goapi.id/logo/CBMF.jpg"
+  },
+  {
+	"kode": "CBPE",
+	"nama": "PT Citra Buana Prasida Tbk",
+	"logo": "https://s3.goapi.id/logo/CBPE.jpg"
+  },
+  {
+	"kode": "CBRE",
+	"nama": "PT Cakra Buana Resources Energi Tbk",
+	"logo": "https://s3.goapi.id/logo/CBRE.jpg"
+  },
+  {
+	"kode": "CBUT",
+	"nama": "PT Citra Borneo Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/CBUT.jpg"
+  },
+  {
+	"kode": "CCSI",
+	"nama": "PT Communication Cable Systems Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/CCSI.jpg"
+  },
+  {
+	"kode": "CEKA",
+	"nama": "PT Wilmar Cahaya Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/CEKA.jpg"
+  },
+  {
+	"kode": "CENT",
+	"nama": "PT Centratama Telekomunikasi Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/CENT.jpg"
+  },
+  {
+	"kode": "CFIN",
+	"nama": "Clipan Finance Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CFIN.jpg"
+  },
+  {
+	"kode": "CHEM",
+	"nama": "PT Chemstar Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CHEM.jpg"
+  },
+  {
+	"kode": "CHIP",
+	"nama": "PT Pelita Teknologi Global Tbk",
+	"logo": "https://s3.goapi.id/logo/CHIP.jpg"
+  },
+  {
+	"kode": "CINT",
+	"nama": "PT Chitose Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/CINT.jpg"
+  },
+  {
+	"kode": "CITA",
+	"nama": "Cita Mineral Investindo Tbk",
+	"logo": "https://s3.goapi.id/logo/CITA.jpg"
+  },
+  {
+	"kode": "CITY",
+	"nama": "PT Natura City Developments Tbk.",
+	"logo": "https://s3.goapi.id/logo/CITY.jpg"
+  },
+  {
+	"kode": "CKRA",
+	"nama": "Cakra Mineral Tbk.",
+	"logo": "https://s3.goapi.id/logo/CKRA.jpg"
+  },
+  {
+	"kode": "CLAY",
+	"nama": "PT Citra Putra Realty Tbk",
+	"logo": "https://s3.goapi.id/logo/CLAY.jpg"
+  },
+  {
+	"kode": "CLEO",
+	"nama": "PT Sariguna Primatirta Tbk",
+	"logo": "https://s3.goapi.id/logo/CLEO.jpg"
+  },
+  {
+	"kode": "CLPI",
+	"nama": "Colorpak Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CLPI.jpg"
+  },
+  {
+	"kode": "CMNP",
+	"nama": "Citra Marga Nusaphala Persada Tbk",
+	"logo": "https://s3.goapi.id/logo/CMNP.jpg"
+  },
+  {
+	"kode": "CMNT",
+	"nama": "PT Cemindo Gemilang Tbk",
+	"logo": "https://s3.goapi.id/logo/CMNT.jpg"
+  },
+  {
+	"kode": "CMPP",
+	"nama": "PT AirAsia Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CMPP.jpg"
+  },
+  {
+	"kode": "CMRY",
+	"nama": "PT Cisarua Mountain Dairy Tbk",
+	"logo": "https://s3.goapi.id/logo/CMRY.jpg"
+  },
+  {
+	"kode": "CNKO",
+	"nama": "Exploitasi Energi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CNKO.jpg"
+  },
+  {
+	"kode": "CNTX",
+	"nama": "PT Century Textile Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/CNTX.jpg"
+  },
+  {
+	"kode": "COAL",
+	"nama": "PT Black Diamond Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/COAL.jpg"
+  },
+  {
+	"kode": "COCO",
+	"nama": "PT Wahana Interfood Nusantara Tbk.",
+	"logo": "https://s3.goapi.id/logo/COCO.jpg"
+  },
+  {
+	"kode": "COWL",
+	"nama": "COWELL DEVELOPMENT Tbk",
+	"logo": "https://s3.goapi.id/logo/COWL.jpg"
+  },
+  {
+	"kode": "CPIN",
+	"nama": "Charoen Pokphand Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/CPIN.jpg"
+  },
+  {
+	"kode": "CPRI",
+	"nama": "PT Capri Nusa Satu Properti Tbk.",
+	"logo": "https://s3.goapi.id/logo/CPRI.jpg"
+  },
+  {
+	"kode": "CPRO",
+	"nama": "Central Proteina Prima Tbk",
+	"logo": "https://s3.goapi.id/logo/CPRO.jpg"
+  },
+  {
+	"kode": "CRAB",
+	"nama": "PT Toba Surimi Industries Tbk",
+	"logo": "https://s3.goapi.id/logo/CRAB.jpg"
+  },
+  {
+	"kode": "CSAP",
+	"nama": "Catur Sentosa Adiprana Tbk",
+	"logo": "https://s3.goapi.id/logo/CSAP.jpg"
+  },
+  {
+	"kode": "CSIS",
+	"nama": "PT Cahayasakti Investindo Sukses Tbk",
+	"logo": "https://s3.goapi.id/logo/CSIS.jpg"
+  },
+  {
+	"kode": "CSMI",
+	"nama": "PT Cipta Selera Murni Tbk.",
+	"logo": "https://s3.goapi.id/logo/CSMI.jpg"
+  },
+  {
+	"kode": "CSRA",
+	"nama": "PT Cisadane Sawit Raya Tbk.",
+	"logo": "https://s3.goapi.id/logo/CSRA.jpg"
+  },
+  {
+	"kode": "CTBN",
+	"nama": "Citra Tubindo Tbk",
+	"logo": "https://s3.goapi.id/logo/CTBN.jpg"
+  },
+  {
+	"kode": "CTRA",
+	"nama": "Ciputra Development Tbk",
+	"logo": "https://s3.goapi.id/logo/CTRA.jpg"
+  },
+  {
+	"kode": "CTTH",
+	"nama": "Citatah Tbk",
+	"logo": "https://s3.goapi.id/logo/CTTH.jpg"
+  },
+  {
+	"kode": "CUAN",
+	"nama": "PT Petrindo Jaya Kreasi Tbk",
+	"logo": "https://s3.goapi.id/logo/CUAN.jpg"
+  },
+  {
+	"kode": "DADA",
+	"nama": "PT Diamond Citra Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/DADA.jpg"
+  },
+  {
+	"kode": "DART",
+	"nama": "Duta Anggada Realty Tbk",
+	"logo": "https://s3.goapi.id/logo/DART.jpg"
+  },
+  {
+	"kode": "DAYA",
+	"nama": "PT Duta Intidaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/DAYA.jpg"
+  },
+  {
+	"kode": "DCII",
+	"nama": "PT DCI Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/DCII.jpg"
+  },
+  {
+	"kode": "DEAL",
+	"nama": "PT Dewata Freightinternational Tbk.",
+	"logo": "https://s3.goapi.id/logo/DEAL.jpg"
+  },
+  {
+	"kode": "DEFI",
+	"nama": "Danasupra Erapacific Tbk",
+	"logo": "https://s3.goapi.id/logo/DEFI.jpg"
+  },
+  {
+	"kode": "DEPO",
+	"nama": "PT Caturkarda Depo Bangunan Tbk",
+	"logo": "https://s3.goapi.id/logo/DEPO.jpg"
+  },
+  {
+	"kode": "DEWA",
+	"nama": "Darma Henwa Tbk",
+	"logo": "https://s3.goapi.id/logo/DEWA.jpg"
+  },
+  {
+	"kode": "DEWI",
+	"nama": "PT Dewi Shri Farmindo Tbk",
+	"logo": "https://s3.goapi.id/logo/DEWI.jpg"
+  },
+  {
+	"kode": "DFAM",
+	"nama": "PT Dafam Property Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/DFAM.jpg"
+  },
+  {
+	"kode": "DGIK",
+	"nama": "Nusa Konstruksi Enjiniring  Tbk",
+	"logo": "https://s3.goapi.id/logo/DGIK.jpg"
+  },
+  {
+	"kode": "DGNS",
+	"nama": "PT Diagnos Laboratorium Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/DGNS.jpg"
+  },
+  {
+	"kode": "DIGI",
+	"nama": "PT Arkadia Digital Media Tbk",
+	"logo": "https://s3.goapi.id/logo/DIGI.jpg"
+  },
+  {
+	"kode": "DILD",
+	"nama": "Intiland Development Tbk",
+	"logo": "https://s3.goapi.id/logo/DILD.jpg"
+  },
+  {
+	"kode": "DIVA",
+	"nama": "PT Distribusi Voucher Nusantara Tbk",
+	"logo": "https://s3.goapi.id/logo/DIVA.jpg"
+  },
+  {
+	"kode": "DKFT",
+	"nama": "Central Omega Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/DKFT.jpg"
+  },
+  {
+	"kode": "DLTA",
+	"nama": "Delta Djakarta Tbk",
+	"logo": "https://s3.goapi.id/logo/DLTA.jpg"
+  },
+  {
+	"kode": "DMAS",
+	"nama": "PT Puradelta Lestari Tbk.",
+	"logo": "https://s3.goapi.id/logo/DMAS.jpg"
+  },
+  {
+	"kode": "DMMX",
+	"nama": "PT Digital Mediatama Maxima Tbk",
+	"logo": "https://s3.goapi.id/logo/DMMX.jpg"
+  },
+  {
+	"kode": "DMND",
+	"nama": "PT Diamond Food Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/DMND.jpg"
+  },
+  {
+	"kode": "DNAR",
+	"nama": "PT Bank Oke Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/DNAR.jpg"
+  },
+  {
+	"kode": "DNET",
+	"nama": "PT Indoritel Makmur Internasional Tbk.",
+	"logo": "https://s3.goapi.id/logo/DNET.jpg"
+  },
+  {
+	"kode": "DOID",
+	"nama": "Delta Dunia Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/DOID.jpg"
+  },
+  {
+	"kode": "DPNS",
+	"nama": "Duta Pertiwi Nusantara Tbk",
+	"logo": "https://s3.goapi.id/logo/DPNS.jpg"
+  },
+  {
+	"kode": "DPUM",
+	"nama": "PT Dua Putra Utama Makmur Tbk.",
+	"logo": "https://s3.goapi.id/logo/DPUM.jpg"
+  },
+  {
+	"kode": "DRMA",
+	"nama": "PT Dharma Polimetal Tbk",
+	"logo": "https://s3.goapi.id/logo/DRMA.jpg"
+  },
+  {
+	"kode": "DSFI",
+	"nama": "Dharma Samudera Fishing Ind. Tbk",
+	"logo": "https://s3.goapi.id/logo/DSFI.jpg"
+  },
+  {
+	"kode": "DSNG",
+	"nama": "PT Dharma Satya Nusantara Tbk.",
+	"logo": "https://s3.goapi.id/logo/DSNG.jpg"
+  },
+  {
+	"kode": "DSSA",
+	"nama": "Dian Swastatika Sentosa Tbk",
+	"logo": "https://s3.goapi.id/logo/DSSA.jpg"
+  },
+  {
+	"kode": "DUCK",
+	"nama": "PT Jaya Bersama Indo Tbk.",
+	"logo": "https://s3.goapi.id/logo/DUCK.jpg"
+  },
+  {
+	"kode": "DUTI",
+	"nama": "Duta Pertiwi Tbk",
+	"logo": "https://s3.goapi.id/logo/DUTI.jpg"
+  },
+  {
+	"kode": "DVLA",
+	"nama": "Darya-Varia Laboratoria Tbk",
+	"logo": "https://s3.goapi.id/logo/DVLA.jpg"
+  },
+  {
+	"kode": "DWGL",
+	"nama": "PT Dwi Guna Laksana Tbk",
+	"logo": "https://s3.goapi.id/logo/DWGL.jpg"
+  },
+  {
+	"kode": "DYAN",
+	"nama": "PT Dyandra Media International Tbk.",
+	"logo": "https://s3.goapi.id/logo/DYAN.jpg"
+  },
+  {
+	"kode": "EAST",
+	"nama": "PT Eastparc Hotel Tbk",
+	"logo": "https://s3.goapi.id/logo/EAST.jpg"
+  },
+  {
+	"kode": "ECII",
+	"nama": "PT Electronic City Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/ECII.jpg"
+  },
+  {
+	"kode": "EDGE",
+	"nama": "PT Indointernet Tbk.",
+	"logo": "https://s3.goapi.id/logo/EDGE.jpg"
+  },
+  {
+	"kode": "EKAD",
+	"nama": "Ekadharma International Tbk",
+	"logo": "https://s3.goapi.id/logo/EKAD.jpg"
+  },
+  {
+	"kode": "ELIT",
+	"nama": "PT Data Sinergitama Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/ELIT.jpg"
+  },
+  {
+	"kode": "ELPI",
+	"nama": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+	"logo": "https://s3.goapi.id/logo/ELPI.jpg"
+  },
+  {
+	"kode": "ELSA",
+	"nama": "Elnusa Tbk",
+	"logo": "https://s3.goapi.id/logo/ELSA.jpg"
+  },
+  {
+	"kode": "ELTY",
+	"nama": "Bakrieland Development Tbk",
+	"logo": "https://s3.goapi.id/logo/ELTY.jpg"
+  },
+  {
+	"kode": "EMDE",
+	"nama": "Megapolitan Developments Tbk",
+	"logo": "https://s3.goapi.id/logo/EMDE.jpg"
+  },
+  {
+	"kode": "EMTK",
+	"nama": "Elang Mahkota Teknologi Tbk",
+	"logo": "https://s3.goapi.id/logo/EMTK.jpg"
+  },
+  {
+	"kode": "ENAK",
+	"nama": "PT Champ Resto Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ENAK.jpg"
+  },
+  {
+	"kode": "ENRG",
+	"nama": "Energi Mega Persada Tbk",
+	"logo": "https://s3.goapi.id/logo/ENRG.jpg"
+  },
+  {
+	"kode": "ENVY",
+	"nama": "PT Envy Technologies Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ENVY.jpg"
+  },
+  {
+	"kode": "ENZO",
+	"nama": "PT Morenzo Abadi Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/ENZO.jpg"
+  },
+  {
+	"kode": "EPAC",
+	"nama": "PT Megalestari Epack Sentosaraya Tbk.",
+	"logo": "https://s3.goapi.id/logo/EPAC.jpg"
+  },
+  {
+	"kode": "EPMT",
+	"nama": "Enseval Putera Megatrading Tbk",
+	"logo": "https://s3.goapi.id/logo/EPMT.jpg"
+  },
+  {
+	"kode": "ERAA",
+	"nama": "Erajaya Swasembada Tbk",
+	"logo": "https://s3.goapi.id/logo/ERAA.jpg"
+  },
+  {
+	"kode": "ERTX",
+	"nama": "Eratex Djaja Tbk",
+	"logo": "https://s3.goapi.id/logo/ERTX.jpg"
+  },
+  {
+	"kode": "ESIP",
+	"nama": "PT Sinergi Inti Plastindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/ESIP.jpg"
+  },
+  {
+	"kode": "ESSA",
+	"nama": "Surya Esa Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/ESSA.jpg"
+  },
+  {
+	"kode": "ESTA",
+	"nama": "PT Esta Multi Usaha Tbk.",
+	"logo": "https://s3.goapi.id/logo/ESTA.jpg"
+  },
+  {
+	"kode": "ESTI",
+	"nama": "Ever Shine Textile Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/ESTI.jpg"
+  },
+  {
+	"kode": "ETWA",
+	"nama": "Eterindo Wahanatama Tbk",
+	"logo": "https://s3.goapi.id/logo/ETWA.jpg"
+  },
+  {
+	"kode": "EURO",
+	"nama": "PT Estee Gold Feet Tbk",
+	"logo": "https://s3.goapi.id/logo/EURO.jpg"
+  },
+  {
+	"kode": "EXCL",
+	"nama": "PT XL Axiata Tbk",
+	"logo": "https://s3.goapi.id/logo/EXCL.jpg"
+  },
+  {
+	"kode": "FAPA",
+	"nama": "PT FAP Agri Tbk",
+	"logo": "https://s3.goapi.id/logo/FAPA.jpg"
+  },
+  {
+	"kode": "FAST",
+	"nama": "PT Fast Food Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/FAST.jpg"
+  },
+  {
+	"kode": "FASW",
+	"nama": "Fajar Surya Wisesa Tbk",
+	"logo": "https://s3.goapi.id/logo/FASW.jpg"
+  },
+  {
+	"kode": "FILM",
+	"nama": "PT MD Pictures Tbk.",
+	"logo": "https://s3.goapi.id/logo/FILM.jpg"
+  },
+  {
+	"kode": "FIMP",
+	"nama": "PT Fimperkasa Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/FIMP.jpg"
+  },
+  {
+	"kode": "FINN",
+	"nama": "PT First Indo American Leasing Tbk.",
+	"logo": "https://s3.goapi.id/logo/FINN.jpg"
+  },
+  {
+	"kode": "FIRE",
+	"nama": "PT Alfa Energi Investama Tbk.",
+	"logo": "https://s3.goapi.id/logo/FIRE.jpg"
+  },
+  {
+	"kode": "FISH",
+	"nama": "FKS Multi Agro Tbk",
+	"logo": "https://s3.goapi.id/logo/FISH.jpg"
+  },
+  {
+	"kode": "FITT",
+	"nama": "PT Hotel Fitra International Tbk",
+	"logo": "https://s3.goapi.id/logo/FITT.jpg"
+  },
+  {
+	"kode": "FLMC",
+	"nama": "PT Falmaco Nonwoven Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/FLMC.jpg"
+  },
+  {
+	"kode": "FMII",
+	"nama": "Fortune Mate Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/FMII.jpg"
+  },
+  {
+	"kode": "FOOD",
+	"nama": "PT Sentra Food Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/FOOD.jpg"
+  },
+  {
+	"kode": "FORU",
+	"nama": "Fortune Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/FORU.jpg"
+  },
+  {
+	"kode": "FORZ",
+	"nama": "PT Forza Land Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/FORZ.jpg"
+  },
+  {
+	"kode": "FPNI",
+	"nama": "PT Lotte Chemical Titan Tbk.",
+	"logo": "https://s3.goapi.id/logo/FPNI.jpg"
+  },
+  {
+	"kode": "FREN",
+	"nama": "PT Smartfren Telecom Tbk",
+	"logo": "https://s3.goapi.id/logo/FREN.jpg"
+  },
+  {
+	"kode": "FUJI",
+	"nama": "PT Fuji Finance Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/FUJI.jpg"
+  },
+  {
+	"kode": "FUTR",
+	"nama": "PT Lini Imaji Kreasi Ekosistem Tbk",
+	"logo": "https://s3.goapi.id/logo/FUTR.jpg"
+  },
+  {
+	"kode": "FWCT",
+	"nama": "PT Wijaya Cahaya Timber Tbk",
+	"logo": "https://s3.goapi.id/logo/FWCT.jpg"
+  },
+  {
+	"kode": "GAMA",
+	"nama": "Aksara Global Development Tbk",
+	"logo": "https://s3.goapi.id/logo/GAMA.jpg"
+  },
+  {
+	"kode": "GDST",
+	"nama": "Gunawan Dianjaya Steel Tbk",
+	"logo": "https://s3.goapi.id/logo/GDST.jpg"
+  },
+  {
+	"kode": "GDYR",
+	"nama": "Goodyear Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/GDYR.jpg"
+  },
+  {
+	"kode": "GEMA",
+	"nama": "Gema Grahasarana Tbk",
+	"logo": "https://s3.goapi.id/logo/GEMA.jpg"
+  },
+  {
+	"kode": "GEMS",
+	"nama": "Golden Energy Mines Tbk",
+	"logo": "https://s3.goapi.id/logo/GEMS.jpg"
+  },
+  {
+	"kode": "GGRM",
+	"nama": "Gudang Garam Tbk",
+	"logo": "https://s3.goapi.id/logo/GGRM.jpg"
+  },
+  {
+	"kode": "GGRP",
+	"nama": "PT Gunung Raja Paksi Tbk.",
+	"logo": "https://s3.goapi.id/logo/GGRP.jpg"
+  },
+  {
+	"kode": "GGST",
+	"nama": "PT Great Golden Star Tbk",
+	"logo": "https://s3.goapi.id/logo/GGST.jpg"
+  },
+  {
+	"kode": "GHON",
+	"nama": "PT Gihon Telekomunikasi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/GHON.jpg"
+  },
+  {
+	"kode": "GIAA",
+	"nama": "Garuda Indonesia (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/GIAA.jpg"
+  },
+  {
+	"kode": "GJTL",
+	"nama": "Gajah Tunggal Tbk",
+	"logo": "https://s3.goapi.id/logo/GJTL.jpg"
+  },
+  {
+	"kode": "GLOB",
+	"nama": "PT Globe Kita Terang Tbk",
+	"logo": "https://s3.goapi.id/logo/GLOB.jpg"
+  },
+  {
+	"kode": "GLVA",
+	"nama": "PT Galva Technologies Tbk",
+	"logo": "https://s3.goapi.id/logo/GLVA.jpg"
+  },
+  {
+	"kode": "GMFI",
+	"nama": "PT Garuda Maintenance Facility Aero Asia Tbk.",
+	"logo": "https://s3.goapi.id/logo/GMFI.jpg"
+  },
+  {
+	"kode": "GMTD",
+	"nama": "Gowa Makassar Tourism Development Tbk",
+	"logo": "https://s3.goapi.id/logo/GMTD.jpg"
+  },
+  {
+	"kode": "GOLD",
+	"nama": "PT Visi Telekomunikasi Infrastruktur Tbk.",
+	"logo": "https://s3.goapi.id/logo/GOLD.jpg"
+  },
+  {
+	"kode": "GOLL",
+	"nama": "PT Golden Plantation Tbk",
+	"logo": "https://s3.goapi.id/logo/GOLL.jpg"
+  },
+  {
+	"kode": "GOOD",
+	"nama": "PT Garudafood Putra Putri Jaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/GOOD.jpg"
+  },
+  {
+	"kode": "GOTO",
+	"nama": "PT GoTo Gojek Tokopedia Tbk",
+	"logo": "https://s3.goapi.id/logo/GOTO.jpg"
+  },
+  {
+	"kode": "GPRA",
+	"nama": "Perdana Gapura Prima Tbk",
+	"logo": "https://s3.goapi.id/logo/GPRA.jpg"
+  },
+  {
+	"kode": "GPSO",
+	"nama": "PT Geoprima Solusi Tbk",
+	"logo": "https://s3.goapi.id/logo/GPSO.jpg"
+  },
+  {
+	"kode": "GREN",
+	"nama": "Evergreen Invesco Tbk",
+	"logo": "https://s3.goapi.id/logo/GREN.jpg"
+  },
+  {
+	"kode": "GRHA",
+	"nama": "PT GRHA SATU ENAM LIMA TBK",
+	"logo": "https://s3.goapi.id/logo/GRHA.jpg"
+  },
+  {
+	"kode": "GSMF",
+	"nama": "Equity Development Investment Tbk",
+	"logo": "https://s3.goapi.id/logo/GSMF.jpg"
+  },
+  {
+	"kode": "GTBO",
+	"nama": "Garda Tujuh Buana Tbk",
+	"logo": "https://s3.goapi.id/logo/GTBO.jpg"
+  },
+  {
+	"kode": "GTSI",
+	"nama": "PT GTS Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/GTSI.jpg"
+  },
+  {
+	"kode": "GULA",
+	"nama": "PT Aman Agrindo Tbk",
+	"logo": "https://s3.goapi.id/logo/GULA.jpg"
+  },
+  {
+	"kode": "GWSA",
+	"nama": "PT Greenwood Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/GWSA.jpg"
+  },
+  {
+	"kode": "GZCO",
+	"nama": "Gozco Plantations Tbk",
+	"logo": "https://s3.goapi.id/logo/GZCO.jpg"
+  },
+  {
+	"kode": "HADE",
+	"nama": "PT Himalaya Energi Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/HADE.jpg"
+  },
+  {
+	"kode": "HAIS",
+	"nama": "PT Hasnur Internasional Shipping Tbk",
+	"logo": "https://s3.goapi.id/logo/HAIS.jpg"
+  },
+  {
+	"kode": "HALO",
+	"nama": "PT Haloni Jane Tbk",
+	"logo": "https://s3.goapi.id/logo/HALO.jpg"
+  },
+  {
+	"kode": "HATM",
+	"nama": "PT Habco Trans Maritima Tbk",
+	"logo": "https://s3.goapi.id/logo/HATM.jpg"
+  },
+  {
+	"kode": "HDFA",
+	"nama": "Radana Bhaskara Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/HDFA.jpg"
+  },
+  {
+	"kode": "HDIT",
+	"nama": "PT Hensel Davest Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/HDIT.jpg"
+  },
+  {
+	"kode": "HDTX",
+	"nama": "Panasia Indo Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/HDTX.jpg"
+  },
+  {
+	"kode": "HEAL",
+	"nama": "PT Medikaloka Hermina Tbk.",
+	"logo": "https://s3.goapi.id/logo/HEAL.jpg"
+  },
+  {
+	"kode": "HELI",
+	"nama": "PT Jaya Trishindo Tbk",
+	"logo": "https://s3.goapi.id/logo/HELI.jpg"
+  },
+  {
+	"kode": "HERO",
+	"nama": "Hero Supermarket Tbk",
+	"logo": "https://s3.goapi.id/logo/HERO.jpg"
+  },
+  {
+	"kode": "HEXA",
+	"nama": "Hexindo Adiperkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/HEXA.jpg"
+  },
+  {
+	"kode": "HILL",
+	"nama": "PT Hillcon Tbk",
+	"logo": "https://s3.goapi.id/logo/HILL.jpg"
+  },
+  {
+	"kode": "HITS",
+	"nama": "Humpuss Intermoda Transportasi Tbk",
+	"logo": "https://s3.goapi.id/logo/HITS.jpg"
+  },
+  {
+	"kode": "HKMU",
+	"nama": "PT HK Metals Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/HKMU.jpg"
+  },
+  {
+	"kode": "HMSP",
+	"nama": "HM Sampoerna Tbk",
+	"logo": "https://s3.goapi.id/logo/HMSP.jpg"
+  },
+  {
+	"kode": "HOKI",
+	"nama": "PT Buyung Poetra Sembada Tbk.",
+	"logo": "https://s3.goapi.id/logo/HOKI.jpg"
+  },
+  {
+	"kode": "HOME",
+	"nama": "Hotel Mandarine Regency Tbk",
+	"logo": "https://s3.goapi.id/logo/HOME.jpg"
+  },
+  {
+	"kode": "HOMI",
+	"nama": "PT Grand House Mulia Tbk",
+	"logo": "https://s3.goapi.id/logo/HOMI.jpg"
+  },
+  {
+	"kode": "HOPE",
+	"nama": "PT Harapan Duta Pertiwi Tbk.",
+	"logo": "https://s3.goapi.id/logo/HOPE.jpg"
+  },
+  {
+	"kode": "HOTL",
+	"nama": "Saraswati Griya Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/HOTL.jpg"
+  },
+  {
+	"kode": "HRME",
+	"nama": "PT Menteng Heritage Realty Tbk.",
+	"logo": "https://s3.goapi.id/logo/HRME.jpg"
+  },
+  {
+	"kode": "HRTA",
+	"nama": "PT Hartadinata Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/HRTA.jpg"
+  },
+  {
+	"kode": "HRUM",
+	"nama": "Harum Energy Tbk",
+	"logo": "https://s3.goapi.id/logo/HRUM.jpg"
+  },
+  {
+	"kode": "IATA",
+	"nama": "PT MNC Energy Investments Tbk",
+	"logo": "https://s3.goapi.id/logo/IATA.jpg"
+  },
+  {
+	"kode": "IBFN",
+	"nama": "PT Intan Baru Prana Tbk",
+	"logo": "https://s3.goapi.id/logo/IBFN.jpg"
+  },
+  {
+	"kode": "IBOS",
+	"nama": "PT Indo Boga Sukses Tbk",
+	"logo": "https://s3.goapi.id/logo/IBOS.jpg"
+  },
+  {
+	"kode": "IBST",
+	"nama": "Inti Bangun Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/IBST.jpg"
+  },
+  {
+	"kode": "ICBP",
+	"nama": "Indofood CBP Sukses Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/ICBP.jpg"
+  },
+  {
+	"kode": "ICON",
+	"nama": "Island Concepts Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ICON.jpg"
+  },
+  {
+	"kode": "IDEA",
+	"nama": "PT Idea Indonesia Akademi Tbk",
+	"logo": "https://s3.goapi.id/logo/IDEA.jpg"
+  },
+  {
+	"kode": "IDPR",
+	"nama": "PT Indonesia Pondasi Raya Tbk.",
+	"logo": "https://s3.goapi.id/logo/IDPR.jpg"
+  },
+  {
+	"kode": "IFII",
+	"nama": "PT Indonesia Fibreboard Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/IFII.jpg"
+  },
+  {
+	"kode": "IFSH",
+	"nama": "PT Ifishdeco Tbk.",
+	"logo": "https://s3.goapi.id/logo/IFSH.jpg"
+  },
+  {
+	"kode": "IGAR",
+	"nama": "Champion Pacific Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/IGAR.jpg"
+  },
+  {
+	"kode": "IIKP",
+	"nama": "Inti Agri Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/IIKP.jpg"
+  },
+  {
+	"kode": "IKAI",
+	"nama": "Intikeramik Alamasri Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/IKAI.jpg"
+  },
+  {
+	"kode": "IKAN",
+	"nama": "PT Era Mandiri Cemerlang Tbk",
+	"logo": "https://s3.goapi.id/logo/IKAN.jpg"
+  },
+  {
+	"kode": "IKBI",
+	"nama": "Sumi Indo Kabel Tbk",
+	"logo": "https://s3.goapi.id/logo/IKBI.jpg"
+  },
+  {
+	"kode": "IMAS",
+	"nama": "Indomobil Sukses Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/IMAS.jpg"
+  },
+  {
+	"kode": "IMJS",
+	"nama": "PT Indomobil Multi Jasa Tbk.",
+	"logo": "https://s3.goapi.id/logo/IMJS.jpg"
+  },
+  {
+	"kode": "IMPC",
+	"nama": "PT Impack Pratama Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/IMPC.jpg"
+  },
+  {
+	"kode": "INAF",
+	"nama": "Indofarma Tbk.",
+	"logo": "https://s3.goapi.id/logo/INAF.jpg"
+  },
+  {
+	"kode": "INAI",
+	"nama": "Indal Aluminium Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/INAI.jpg"
+  },
+  {
+	"kode": "INCF",
+	"nama": "PT Indo Komoditi Korpora Tbk",
+	"logo": "https://s3.goapi.id/logo/INCF.jpg"
+  },
+  {
+	"kode": "INCI",
+	"nama": "Intanwijaya Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/INCI.jpg"
+  },
+  {
+	"kode": "INCO",
+	"nama": "Vale Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/INCO.jpg"
+  },
+  {
+	"kode": "INDF",
+	"nama": "Indofood Sukses Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/INDF.jpg"
+  },
+  {
+	"kode": "INDO",
+	"nama": "PT Royalindo Investa Wijaya Tbk",
+	"logo": "https://s3.goapi.id/logo/INDO.jpg"
+  },
+  {
+	"kode": "INDR",
+	"nama": "Indorama Synthetics Tbk",
+	"logo": "https://s3.goapi.id/logo/INDR.jpg"
+  },
+  {
+	"kode": "INDS",
+	"nama": "Indospring Tbk",
+	"logo": "https://s3.goapi.id/logo/INDS.jpg"
+  },
+  {
+	"kode": "INDX",
+	"nama": "Tanah Laut Tbk",
+	"logo": "https://s3.goapi.id/logo/INDX.jpg"
+  },
+  {
+	"kode": "INDY",
+	"nama": "Indika Energy Tbk",
+	"logo": "https://s3.goapi.id/logo/INDY.jpg"
+  },
+  {
+	"kode": "INKP",
+	"nama": "Indah Kiat Pulp & Paper Tbk",
+	"logo": "https://s3.goapi.id/logo/INKP.jpg"
+  },
+  {
+	"kode": "INOV",
+	"nama": "PT Inocycle Technology Group Tbk.",
+	"logo": "https://s3.goapi.id/logo/INOV.jpg"
+  },
+  {
+	"kode": "INPC",
+	"nama": "Bank Artha Graha Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/INPC.jpg"
+  },
+  {
+	"kode": "INPP",
+	"nama": "Indonesian Paradise Property Tbk",
+	"logo": "https://s3.goapi.id/logo/INPP.jpg"
+  },
+  {
+	"kode": "INPS",
+	"nama": "PT Indah Prakasa Sentosa Tbk.",
+	"logo": "https://s3.goapi.id/logo/INPS.jpg"
+  },
+  {
+	"kode": "INRU",
+	"nama": "Toba Pulp Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/INRU.jpg"
+  },
+  {
+	"kode": "INSA",
+	"nama": "PT Intinusa Selareksa Tbk",
+	"logo": "https://s3.goapi.id/logo/INSA.jpg"
+  },
+  {
+	"kode": "INTA",
+	"nama": "Intraco Penta Tbk",
+	"logo": "https://s3.goapi.id/logo/INTA.jpg"
+  },
+  {
+	"kode": "INTD",
+	"nama": "Inter-Delta Tbk",
+	"logo": "https://s3.goapi.id/logo/INTD.jpg"
+  },
+  {
+	"kode": "INTP",
+	"nama": "Indocement Tunggal Prakarsa Tbk",
+	"logo": "https://s3.goapi.id/logo/INTP.jpg"
+  },
+  {
+	"kode": "IPAC",
+	"nama": "PT Era Graharealty Tbk",
+	"logo": "https://s3.goapi.id/logo/IPAC.jpg"
+  },
+  {
+	"kode": "IPCC",
+	"nama": "PT Indonesia Kendaraan Terminal Tbk.",
+	"logo": "https://s3.goapi.id/logo/IPCC.jpg"
+  },
+  {
+	"kode": "IPCM",
+	"nama": "PT Jasa Armada Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/IPCM.jpg"
+  },
+  {
+	"kode": "IPOL",
+	"nama": "Indopoly Swakarsa Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/IPOL.jpg"
+  },
+  {
+	"kode": "IPPE",
+	"nama": "PT Indo Pureco Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/IPPE.jpg"
+  },
+  {
+	"kode": "IPTV",
+	"nama": "PT MNC Vision Networks Tbk.",
+	"logo": "https://s3.goapi.id/logo/IPTV.jpg"
+  },
+  {
+	"kode": "IRRA",
+	"nama": "PT Itama Ranoraya Tbk.",
+	"logo": "https://s3.goapi.id/logo/IRRA.jpg"
+  },
+  {
+	"kode": "IRSX",
+	"nama": "PT Aviana Sinar Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/IRSX.jpg"
+  },
+  {
+	"kode": "ISAP",
+	"nama": "PT Isra Presisi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ISAP.jpg"
+  },
+  {
+	"kode": "ISAT",
+	"nama": "PT Indosat Tbk",
+	"logo": "https://s3.goapi.id/logo/ISAT.jpg"
+  },
+  {
+	"kode": "ISSP",
+	"nama": "PT Steel Pipe Industry of Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ISSP.jpg"
+  },
+  {
+	"kode": "ITIC",
+	"nama": "PT Indonesian Tobacco Tbk.",
+	"logo": "https://s3.goapi.id/logo/ITIC.jpg"
+  },
+  {
+	"kode": "ITMA",
+	"nama": "SUMBER ENERGI ANDALAN Tbk",
+	"logo": "https://s3.goapi.id/logo/ITMA.jpg"
+  },
+  {
+	"kode": "ITMG",
+	"nama": "Indo Tambangraya Megah Tbk",
+	"logo": "https://s3.goapi.id/logo/ITMG.jpg"
+  },
+  {
+	"kode": "ITTG",
+	"nama": "Leo Investments Tbk",
+	"logo": "https://s3.goapi.id/logo/ITTG.jpg"
+  },
+  {
+	"kode": "JARR",
+	"nama": "PT Jhonlin Agro Raya Tbk",
+	"logo": "https://s3.goapi.id/logo/JARR.jpg"
+  },
+  {
+	"kode": "JAST",
+	"nama": "PT Jasnita Telekomindo Tbk. ",
+	"logo": "https://s3.goapi.id/logo/JAST.jpg"
+  },
+  {
+	"kode": "JAWA",
+	"nama": "Jaya Agra Wattie Tbk",
+	"logo": "https://s3.goapi.id/logo/JAWA.jpg"
+  },
+  {
+	"kode": "JAYA",
+	"nama": "PT Armada Berjaya Trans Tbk.",
+	"logo": "https://s3.goapi.id/logo/JAYA.jpg"
+  },
+  {
+	"kode": "JECC",
+	"nama": "Jembo Cable Company Tbk",
+	"logo": "https://s3.goapi.id/logo/JECC.jpg"
+  },
+  {
+	"kode": "JGLE",
+	"nama": "PT Graha Andrasentra Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/JGLE.jpg"
+  },
+  {
+	"kode": "JIHD",
+	"nama": "Jakarta International Hotels & Development Tbk",
+	"logo": "https://s3.goapi.id/logo/JIHD.jpg"
+  },
+  {
+	"kode": "JKON",
+	"nama": "Jaya Konstruksi Manggala Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/JKON.jpg"
+  },
+  {
+	"kode": "JKSW",
+	"nama": "Jakarta Kyoei Steel Works Tbk",
+	"logo": "https://s3.goapi.id/logo/JKSW.jpg"
+  },
+  {
+	"kode": "JMAS",
+	"nama": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/JMAS.jpg"
+  },
+  {
+	"kode": "JPFA",
+	"nama": "JAPFA Comfeed Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/JPFA.jpg"
+  },
+  {
+	"kode": "JRPT",
+	"nama": "Jaya Real Property Tbk",
+	"logo": "https://s3.goapi.id/logo/JRPT.jpg"
+  },
+  {
+	"kode": "JSKY",
+	"nama": "PT Sky Energy Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/JSKY.jpg"
+  },
+  {
+	"kode": "JSMR",
+	"nama": "PT Jasa Marga Tbk",
+	"logo": "https://s3.goapi.id/logo/JSMR.jpg"
+  },
+  {
+	"kode": "JSPT",
+	"nama": "Jakarta Setiabudi Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/JSPT.jpg"
+  },
+  {
+	"kode": "JTPE",
+	"nama": "Jasuindo Tiga Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/JTPE.jpg"
+  },
+  {
+	"kode": "KAEF",
+	"nama": "Kimia Farma Tbk.",
+	"logo": "https://s3.goapi.id/logo/KAEF.jpg"
+  },
+  {
+	"kode": "KARW",
+	"nama": "ICTSI JASA PRIMA Tbk",
+	"logo": "https://s3.goapi.id/logo/KARW.jpg"
+  },
+  {
+	"kode": "KAYU",
+	"nama": "PT Darmi Bersaudara Tbk.",
+	"logo": "https://s3.goapi.id/logo/KAYU.jpg"
+  },
+  {
+	"kode": "KBAG",
+	"nama": "PT Karya Bersama Anugerah Tbk",
+	"logo": "https://s3.goapi.id/logo/KBAG.jpg"
+  },
+  {
+	"kode": "KBLI",
+	"nama": "KMI Wire and Cable Tbk",
+	"logo": "https://s3.goapi.id/logo/KBLI.jpg"
+  },
+  {
+	"kode": "KBLM",
+	"nama": "Kabelindo Murni Tbk",
+	"logo": "https://s3.goapi.id/logo/KBLM.jpg"
+  },
+  {
+	"kode": "KBLV",
+	"nama": "First Media Tbk",
+	"logo": "https://s3.goapi.id/logo/KBLV.jpg"
+  },
+  {
+	"kode": "KBRI",
+	"nama": "Kertas Basuki Rachmat Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/KBRI.jpg"
+  },
+  {
+	"kode": "KDSI",
+	"nama": "Kedawung Setia Industrial Tbk",
+	"logo": "https://s3.goapi.id/logo/KDSI.jpg"
+  },
+  {
+	"kode": "KDTN",
+	"nama": "PT Puri Sentul Permai Tbk",
+	"logo": "https://s3.goapi.id/logo/KDTN.jpg"
+  },
+  {
+	"kode": "KEEN",
+	"nama": "PT Kencana Energi Lestari Tbk. ",
+	"logo": "https://s3.goapi.id/logo/KEEN.jpg"
+  },
+  {
+	"kode": "KEJU",
+	"nama": "PT Mulia Boga Raya Tbk",
+	"logo": "https://s3.goapi.id/logo/KEJU.jpg"
+  },
+  {
+	"kode": "KETR",
+	"nama": "PT Ketrosden Triasmitra Tbk",
+	"logo": "https://s3.goapi.id/logo/KETR.jpg"
+  },
+  {
+	"kode": "KIAS",
+	"nama": "Keramika Indonesia Assosiasi Tbk",
+	"logo": "https://s3.goapi.id/logo/KIAS.jpg"
+  },
+  {
+	"kode": "KICI",
+	"nama": "Kedaung Indah Can Tbk",
+	"logo": "https://s3.goapi.id/logo/KICI.jpg"
+  },
+  {
+	"kode": "KIJA",
+	"nama": "Kawasan Industri Jababeka Tbk",
+	"logo": "https://s3.goapi.id/logo/KIJA.jpg"
+  },
+  {
+	"kode": "KING",
+	"nama": "PT Hoffmen Cleanindo Tbk",
+	"logo": "https://s3.goapi.id/logo/KING.jpg"
+  },
+  {
+	"kode": "KINO",
+	"nama": "PT Kino Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/KINO.jpg"
+  },
+  {
+	"kode": "KIOS",
+	"nama": "PT Kioson Komersial Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/KIOS.jpg"
+  },
+  {
+	"kode": "KJEN",
+	"nama": "PT Krida Jaringan Nusantara Tbk.",
+	"logo": "https://s3.goapi.id/logo/KJEN.jpg"
+  },
+  {
+	"kode": "KKES",
+	"nama": "PT Kusuma Kemindo Sentosa Tbk",
+	"logo": "https://s3.goapi.id/logo/KKES.jpg"
+  },
+  {
+	"kode": "KKGI",
+	"nama": "Resource Alam Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/KKGI.jpg"
+  },
+  {
+	"kode": "KLBF",
+	"nama": "Kalbe Farma Tbk",
+	"logo": "https://s3.goapi.id/logo/KLBF.jpg"
+  },
+  {
+	"kode": "KLIN",
+	"nama": "PT Klinko Karya Imaji Tbk",
+	"logo": "https://s3.goapi.id/logo/KLIN.jpg"
+  },
+  {
+	"kode": "KMDS",
+	"nama": "PT Kurniamitra Duta Sentosa Tbk.",
+	"logo": "https://s3.goapi.id/logo/KMDS.jpg"
+  },
+  {
+	"kode": "KMTR",
+	"nama": "PT Kirana Megatara Tbk.",
+	"logo": "https://s3.goapi.id/logo/KMTR.jpg"
+  },
+  {
+	"kode": "KOBX",
+	"nama": "Kobexindo Tractors Tbk",
+	"logo": "https://s3.goapi.id/logo/KOBX.jpg"
+  },
+  {
+	"kode": "KOIN",
+	"nama": "Kokoh Inti Arebama Tbk",
+	"logo": "https://s3.goapi.id/logo/KOIN.jpg"
+  },
+  {
+	"kode": "KONI",
+	"nama": "Perdana Bangun Pusaka Tbk",
+	"logo": "https://s3.goapi.id/logo/KONI.jpg"
+  },
+  {
+	"kode": "KOPI",
+	"nama": "PT Mitra Energi Persada Tbk",
+	"logo": "https://s3.goapi.id/logo/KOPI.jpg"
+  },
+  {
+	"kode": "KOTA",
+	"nama": "PT DMS Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/KOTA.jpg"
+  },
+  {
+	"kode": "KPAL",
+	"nama": "PT Steadfast Marine Tbk",
+	"logo": "https://s3.goapi.id/logo/KPAL.jpg"
+  },
+  {
+	"kode": "KPAS",
+	"nama": "PT Cottonindo Ariesta Tbk.",
+	"logo": "https://s3.goapi.id/logo/KPAS.jpg"
+  },
+  {
+	"kode": "KPIG",
+	"nama": "MNC Land Tbk",
+	"logo": "https://s3.goapi.id/logo/KPIG.jpg"
+  },
+  {
+	"kode": "KRAH",
+	"nama": "PT Grand Kartech Tbk",
+	"logo": "https://s3.goapi.id/logo/KRAH.jpg"
+  },
+  {
+	"kode": "KRAS",
+	"nama": "Krakatau Steel (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/KRAS.jpg"
+  },
+  {
+	"kode": "KREN",
+	"nama": "PT Kresna Graha Investama Tbk.",
+	"logo": "https://s3.goapi.id/logo/KREN.jpg"
+  },
+  {
+	"kode": "KRYA",
+	"nama": "PT Bangun Karya Perkasa Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/KRYA.jpg"
+  },
+  {
+	"kode": "KUAS",
+	"nama": "PT Ace Oldfields Tbk",
+	"logo": "https://s3.goapi.id/logo/KUAS.jpg"
+  },
+  {
+	"kode": "LABA",
+	"nama": "PT Ladangbaja Murni Tbk",
+	"logo": "https://s3.goapi.id/logo/LABA.jpg"
+  },
+  {
+	"kode": "LAJU",
+	"nama": "PT Jasa Berdikari Logistics Tbk",
+	"logo": "https://s3.goapi.id/logo/LAJU.jpg"
+  },
+  {
+	"kode": "LAND",
+	"nama": "PT Trimitra Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/LAND.jpg"
+  },
+  {
+	"kode": "LAPD",
+	"nama": "Leyand International Tbk",
+	"logo": "https://s3.goapi.id/logo/LAPD.jpg"
+  },
+  {
+	"kode": "LCGP",
+	"nama": "PT Eureka Prima Jakarta Tbk.",
+	"logo": "https://s3.goapi.id/logo/LCGP.jpg"
+  },
+  {
+	"kode": "LCKM",
+	"nama": "PT LCK Global Kedaton Tbk",
+	"logo": "https://s3.goapi.id/logo/LCKM.jpg"
+  },
+  {
+	"kode": "LEAD",
+	"nama": "PT Logindo Samudramakmur Tbk.",
+	"logo": "https://s3.goapi.id/logo/LEAD.jpg"
+  },
+  {
+	"kode": "LFLO",
+	"nama": "PT Imago Mulia Persada Tbk",
+	"logo": "https://s3.goapi.id/logo/LFLO.jpg"
+  },
+  {
+	"kode": "LIFE",
+	"nama": "PT Asuransi Jiwa Sinarmas MSIG Tbk.",
+	"logo": "https://s3.goapi.id/logo/LIFE.jpg"
+  },
+  {
+	"kode": "LINK",
+	"nama": "PT Link Net Tbk.",
+	"logo": "https://s3.goapi.id/logo/LINK.jpg"
+  },
+  {
+	"kode": "LION",
+	"nama": "Lion Metal Works Tbk",
+	"logo": "https://s3.goapi.id/logo/LION.jpg"
+  },
+  {
+	"kode": "LMAS",
+	"nama": "Limas Indonesia Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/LMAS.jpg"
+  },
+  {
+	"kode": "LMPI",
+	"nama": "Langgeng Makmur Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/LMPI.jpg"
+  },
+  {
+	"kode": "LMSH",
+	"nama": "Lionmesh Prima Tbk",
+	"logo": "https://s3.goapi.id/logo/LMSH.jpg"
+  },
+  {
+	"kode": "LPCK",
+	"nama": "Lippo Cikarang Tbk",
+	"logo": "https://s3.goapi.id/logo/LPCK.jpg"
+  },
+  {
+	"kode": "LPGI",
+	"nama": "Lippo General Insurance Tbk",
+	"logo": "https://s3.goapi.id/logo/LPGI.jpg"
+  },
+  {
+	"kode": "LPIN",
+	"nama": "Multi Prima Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/LPIN.jpg"
+  },
+  {
+	"kode": "LPKR",
+	"nama": "Lippo Karawaci Tbk",
+	"logo": "https://s3.goapi.id/logo/LPKR.jpg"
+  },
+  {
+	"kode": "LPLI",
+	"nama": "Star Pacific Tbk",
+	"logo": "https://s3.goapi.id/logo/LPLI.jpg"
+  },
+  {
+	"kode": "LPPF",
+	"nama": "Matahari Department Store Tbk",
+	"logo": "https://s3.goapi.id/logo/LPPF.jpg"
+  },
+  {
+	"kode": "LPPS",
+	"nama": "PT Lenox Pasifik Investama Tbk",
+	"logo": "https://s3.goapi.id/logo/LPPS.jpg"
+  },
+  {
+	"kode": "LRNA",
+	"nama": "PT Eka Sari Lorena Transport Tbk.",
+	"logo": "https://s3.goapi.id/logo/LRNA.jpg"
+  },
+  {
+	"kode": "LSIP",
+	"nama": "PP London Sumatra Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/LSIP.jpg"
+  },
+  {
+	"kode": "LTLS",
+	"nama": "PT Lautan Luas Tbk",
+	"logo": "https://s3.goapi.id/logo/LTLS.jpg"
+  },
+  {
+	"kode": "LUCK",
+	"nama": "PT Sentral Mitra Informatika Tbk.",
+	"logo": "https://s3.goapi.id/logo/LUCK.jpg"
+  },
+  {
+	"kode": "LUCY",
+	"nama": "PT Lima Dua Lima Tiga Tbk",
+	"logo": "https://s3.goapi.id/logo/LUCY.jpg"
+  },
+  {
+	"kode": "MABA",
+	"nama": "PT Marga Abhinaya Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/MABA.jpg"
+  },
+  {
+	"kode": "MAGP",
+	"nama": "Multi Agro Gemilang Plantation Tbk",
+	"logo": "https://s3.goapi.id/logo/MAGP.jpg"
+  },
+  {
+	"kode": "MAIN",
+	"nama": "Malindo Feedmill Tbk",
+	"logo": "https://s3.goapi.id/logo/MAIN.jpg"
+  },
+  {
+	"kode": "MAMI",
+	"nama": "Mas Murni Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MAMI.jpg"
+  },
+  {
+	"kode": "MAPA",
+	"nama": "PT MAP Aktif Adiperkasa Tbk.",
+	"logo": "https://s3.goapi.id/logo/MAPA.jpg"
+  },
+  {
+	"kode": "MAPB",
+	"nama": "PT MAP Boga Adiperkasa Tbk.",
+	"logo": "https://s3.goapi.id/logo/MAPB.jpg"
+  },
+  {
+	"kode": "MAPI",
+	"nama": "Mitra Adiperkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/MAPI.jpg"
+  },
+  {
+	"kode": "MARI",
+	"nama": "PT Mahaka Radio Integra Tbk.",
+	"logo": "https://s3.goapi.id/logo/MARI.jpg"
+  },
+  {
+	"kode": "MARK",
+	"nama": "PT Mark Dynamics Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/MARK.jpg"
+  },
+  {
+	"kode": "MASA",
+	"nama": "Multistrada Arah Sarana Tbk",
+	"logo": "https://s3.goapi.id/logo/MASA.jpg"
+  },
+  {
+	"kode": "MASB",
+	"nama": "PT Bank Multiarta Sentosa Tbk",
+	"logo": "https://s3.goapi.id/logo/MASB.jpg"
+  },
+  {
+	"kode": "MAYA",
+	"nama": "PT Bank Mayapada Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/MAYA.jpg"
+  },
+  {
+	"kode": "MBAP",
+	"nama": "PT Mitrabara Adiperdana Tbk",
+	"logo": "https://s3.goapi.id/logo/MBAP.jpg"
+  },
+  {
+	"kode": "MBSS",
+	"nama": "Mitrabahtera Segara Sejati Tbk",
+	"logo": "https://s3.goapi.id/logo/MBSS.jpg"
+  },
+  {
+	"kode": "MBTO",
+	"nama": "Martina Berto Tbk",
+	"logo": "https://s3.goapi.id/logo/MBTO.jpg"
+  },
+  {
+	"kode": "MCAS",
+	"nama": "PT M Cash Integrasi Tbk",
+	"logo": "https://s3.goapi.id/logo/MCAS.jpg"
+  },
+  {
+	"kode": "MCOL",
+	"nama": "PT Prima Andalan Mandiri Tbk",
+	"logo": "https://s3.goapi.id/logo/MCOL.jpg"
+  },
+  {
+	"kode": "MCOR",
+	"nama": "PT Bank China Construction Bank Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MCOR.jpg"
+  },
+  {
+	"kode": "MDIA",
+	"nama": "PT Intermedia Capital Tbk.",
+	"logo": "https://s3.goapi.id/logo/MDIA.jpg"
+  },
+  {
+	"kode": "MDKA",
+	"nama": "PT Merdeka Copper Gold Tbk.",
+	"logo": "https://s3.goapi.id/logo/MDKA.jpg"
+  },
+  {
+	"kode": "MDKI",
+	"nama": "PT Emdeki Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/MDKI.jpg"
+  },
+  {
+	"kode": "MDLN",
+	"nama": "PT Modernland Realty Tbk.",
+	"logo": "https://s3.goapi.id/logo/MDLN.jpg"
+  },
+  {
+	"kode": "MDRN",
+	"nama": "Modern Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/MDRN.jpg"
+  },
+  {
+	"kode": "MEDC",
+	"nama": "PT Medco Energi Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/MEDC.jpg"
+  },
+  {
+	"kode": "MEDS",
+	"nama": "PT Hetzer Medical Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MEDS.jpg"
+  },
+  {
+	"kode": "MEGA",
+	"nama": "Bank Mega Tbk",
+	"logo": "https://s3.goapi.id/logo/MEGA.jpg"
+  },
+  {
+	"kode": "MERK",
+	"nama": "Merck Tbk",
+	"logo": "https://s3.goapi.id/logo/MERK.jpg"
+  },
+  {
+	"kode": "META",
+	"nama": "Nusantara Infrastructure Tbk",
+	"logo": "https://s3.goapi.id/logo/META.jpg"
+  },
+  {
+	"kode": "MFIN",
+	"nama": "PT Mandala Multifinance Tbk.",
+	"logo": "https://s3.goapi.id/logo/MFIN.jpg"
+  },
+  {
+	"kode": "MFMI",
+	"nama": "Multifiling Mitra Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MFMI.jpg"
+  },
+  {
+	"kode": "MGLV",
+	"nama": "PT Panca Anugrah Wisesa Tbk",
+	"logo": "https://s3.goapi.id/logo/MGLV.jpg"
+  },
+  {
+	"kode": "MGNA",
+	"nama": "PT Magna Investama Mandiri Tbk",
+	"logo": "https://s3.goapi.id/logo/MGNA.jpg"
+  },
+  {
+	"kode": "MGRO",
+	"nama": "PT Mahkota Group Tbk.",
+	"logo": "https://s3.goapi.id/logo/MGRO.jpg"
+  },
+  {
+	"kode": "MICE",
+	"nama": "Multi Indocitra Tbk",
+	"logo": "https://s3.goapi.id/logo/MICE.jpg"
+  },
+  {
+	"kode": "MIDI",
+	"nama": "Midi Utama Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MIDI.jpg"
+  },
+  {
+	"kode": "MIKA",
+	"nama": "PT Mitra Keluarga Karyasehat Tbk.",
+	"logo": "https://s3.goapi.id/logo/MIKA.jpg"
+  },
+  {
+	"kode": "MINA",
+	"nama": "PT Sanurhasta Mitra Tbk.",
+	"logo": "https://s3.goapi.id/logo/MINA.jpg"
+  },
+  {
+	"kode": "MIRA",
+	"nama": "Mitra International Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/MIRA.jpg"
+  },
+  {
+	"kode": "MITI",
+	"nama": "Mitra Investindo Tbk",
+	"logo": "https://s3.goapi.id/logo/MITI.jpg"
+  },
+  {
+	"kode": "MKNT",
+	"nama": "PT Mitra Komunikasi Nusantara Tbk.",
+	"logo": "https://s3.goapi.id/logo/MKNT.jpg"
+  },
+  {
+	"kode": "MKPI",
+	"nama": "Metropolitan Kentjana Tbk",
+	"logo": "https://s3.goapi.id/logo/MKPI.jpg"
+  },
+  {
+	"kode": "MKTR",
+	"nama": "PT Menthobi Karyatama Raya Tbk",
+	"logo": "https://s3.goapi.id/logo/MKTR.jpg"
+  },
+  {
+	"kode": "MLBI",
+	"nama": "Multi Bintang Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MLBI.jpg"
+  },
+  {
+	"kode": "MLIA",
+	"nama": "Mulia Industrindo Tbk",
+	"logo": "https://s3.goapi.id/logo/MLIA.jpg"
+  },
+  {
+	"kode": "MLPL",
+	"nama": "Multipolar Tbk",
+	"logo": "https://s3.goapi.id/logo/MLPL.jpg"
+  },
+  {
+	"kode": "MLPT",
+	"nama": "PT Multipolar Technology Tbk.",
+	"logo": "https://s3.goapi.id/logo/MLPT.jpg"
+  },
+  {
+	"kode": "MMIX",
+	"nama": "PT Multi Medika Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/MMIX.jpg"
+  },
+  {
+	"kode": "MMLP",
+	"nama": "PT Mega Manunggal Property Tbk.",
+	"logo": "https://s3.goapi.id/logo/MMLP.jpg"
+  },
+  {
+	"kode": "MNCN",
+	"nama": "Media Nusantara Citra Tbk",
+	"logo": "https://s3.goapi.id/logo/MNCN.jpg"
+  },
+  {
+	"kode": "MOLI",
+	"nama": "PT Madusari Murni Indah Tbk.",
+	"logo": "https://s3.goapi.id/logo/MOLI.jpg"
+  },
+  {
+	"kode": "MORA",
+	"nama": "PT Mora Telematika Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MORA.jpg"
+  },
+  {
+	"kode": "MPMX",
+	"nama": "PT Mitra Pinasthika Mustika Tbk.",
+	"logo": "https://s3.goapi.id/logo/MPMX.jpg"
+  },
+  {
+	"kode": "MPOW",
+	"nama": "PT Megapower Makmur Tbk.",
+	"logo": "https://s3.goapi.id/logo/MPOW.jpg"
+  },
+  {
+	"kode": "MPPA",
+	"nama": "Matahari Putra Prima Tbk",
+	"logo": "https://s3.goapi.id/logo/MPPA.jpg"
+  },
+  {
+	"kode": "MPRO",
+	"nama": "PT Maha Properti Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/MPRO.jpg"
+  },
+  {
+	"kode": "MRAT",
+	"nama": "Mustika Ratu Tbk",
+	"logo": "https://s3.goapi.id/logo/MRAT.jpg"
+  },
+  {
+	"kode": "MREI",
+	"nama": "Maskapai Reasuransi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/MREI.jpg"
+  },
+  {
+	"kode": "MSIN",
+	"nama": "PT MNC Digital Entertainment Tbk",
+	"logo": "https://s3.goapi.id/logo/MSIN.jpg"
+  },
+  {
+	"kode": "MSKY",
+	"nama": "MNC Sky Vision Tbk",
+	"logo": "https://s3.goapi.id/logo/MSKY.jpg"
+  },
+  {
+	"kode": "MTDL",
+	"nama": "Metrodata Electronics Tbk",
+	"logo": "https://s3.goapi.id/logo/MTDL.jpg"
+  },
+  {
+	"kode": "MTEL",
+	"nama": "PT Dayamitra Telekomunikasi Tbk",
+	"logo": "https://s3.goapi.id/logo/MTEL.jpg"
+  },
+  {
+	"kode": "MTFN",
+	"nama": "Capitalinc Investment Tbk",
+	"logo": "https://s3.goapi.id/logo/MTFN.jpg"
+  },
+  {
+	"kode": "MTLA",
+	"nama": "Metropolitan Land Tbk",
+	"logo": "https://s3.goapi.id/logo/MTLA.jpg"
+  },
+  {
+	"kode": "MTMH",
+	"nama": "PT Murni Sadar Tbk",
+	"logo": "https://s3.goapi.id/logo/MTMH.jpg"
+  },
+  {
+	"kode": "MTPS",
+	"nama": "PT Meta Epsi Tbk.",
+	"logo": "https://s3.goapi.id/logo/MTPS.jpg"
+  },
+  {
+	"kode": "MTRA",
+	"nama": "PT Mitra Pemuda Tbk.",
+	"logo": "https://s3.goapi.id/logo/MTRA.jpg"
+  },
+  {
+	"kode": "MTSM",
+	"nama": "Metro Realty Tbk",
+	"logo": "https://s3.goapi.id/logo/MTSM.jpg"
+  },
+  {
+	"kode": "MTWI",
+	"nama": "PT Malacca Trust Wuwungan Insurance Tbk.",
+	"logo": "https://s3.goapi.id/logo/MTWI.jpg"
+  },
+  {
+	"kode": "MYOH",
+	"nama": "Samindo Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/MYOH.jpg"
+  },
+  {
+	"kode": "MYOR",
+	"nama": "Mayora Indah Tbk",
+	"logo": "https://s3.goapi.id/logo/MYOR.jpg"
+  },
+  {
+	"kode": "MYRX",
+	"nama": "Hanson International Tbk",
+	"logo": "https://s3.goapi.id/logo/MYRX.jpg"
+  },
+  {
+	"kode": "MYTX",
+	"nama": "PT Asia Pacific Investama Tbk.",
+	"logo": "https://s3.goapi.id/logo/MYTX.jpg"
+  },
+  {
+	"kode": "NANO",
+	"nama": "PT Nanotech Indonesia Global Tbk",
+	"logo": "https://s3.goapi.id/logo/NANO.jpg"
+  },
+  {
+	"kode": "NASA",
+	"nama": "PT Andalan Perkasa Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/NASA.jpg"
+  },
+  {
+	"kode": "NASI",
+	"nama": "PT Wahana Inti Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/NASI.jpg"
+  },
+  {
+	"kode": "NATO",
+	"nama": "PT Surya Permata Andalan Tbk",
+	"logo": "https://s3.goapi.id/logo/NATO.jpg"
+  },
+  {
+	"kode": "NAYZ",
+	"nama": "PT Hassana Boga Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/NAYZ.jpg"
+  },
+  {
+	"kode": "NELY",
+	"nama": "Pelayaran Nelly Dwi Putri Tbk",
+	"logo": "https://s3.goapi.id/logo/NELY.jpg"
+  },
+  {
+	"kode": "NETV",
+	"nama": "PT Net Visi Media Tbk",
+	"logo": "https://s3.goapi.id/logo/NETV.jpg"
+  },
+  {
+	"kode": "NFCX",
+	"nama": "PT NFC Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/NFCX.jpg"
+  },
+  {
+	"kode": "NICK",
+	"nama": "PT Charnic Capital Tbk.",
+	"logo": "https://s3.goapi.id/logo/NICK.jpg"
+  },
+  {
+	"kode": "NICL",
+	"nama": "PT PAM Mineral Tbk",
+	"logo": "https://s3.goapi.id/logo/NICL.jpg"
+  },
+  {
+	"kode": "NIKL",
+	"nama": "Pelat Timah Nusantara Tbk",
+	"logo": "https://s3.goapi.id/logo/NIKL.jpg"
+  },
+  {
+	"kode": "NINE",
+	"nama": "PT Techno9 Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/NINE.jpg"
+  },
+  {
+	"kode": "NIPS",
+	"nama": "Nipress Tbk",
+	"logo": "https://s3.goapi.id/logo/NIPS.jpg"
+  },
+  {
+	"kode": "NIRO",
+	"nama": "City Retail Developments Tbk",
+	"logo": "https://s3.goapi.id/logo/NIRO.jpg"
+  },
+  {
+	"kode": "NISP",
+	"nama": "PT Bank OCBC NISP Tbk",
+	"logo": "https://s3.goapi.id/logo/NISP.jpg"
+  },
+  {
+	"kode": "NOBU",
+	"nama": "PT Bank Nationalnobu Tbk.",
+	"logo": "https://s3.goapi.id/logo/NOBU.jpg"
+  },
+  {
+	"kode": "NPGF",
+	"nama": "PT Nusa Palapa Gemilang Tbk",
+	"logo": "https://s3.goapi.id/logo/NPGF.jpg"
+  },
+  {
+	"kode": "NRCA",
+	"nama": "PT Nusa Raya Cipta Tbk.",
+	"logo": "https://s3.goapi.id/logo/NRCA.jpg"
+  },
+  {
+	"kode": "NSSS",
+	"nama": "PT Nusantara Sawit Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/NSSS.jpg"
+  },
+  {
+	"kode": "NTBK",
+	"nama": "PT Nusatama Berkah Tbk",
+	"logo": "https://s3.goapi.id/logo/NTBK.jpg"
+  },
+  {
+	"kode": "NUSA",
+	"nama": "PT Sinergi Megah Internusa Tbk",
+	"logo": "https://s3.goapi.id/logo/NUSA.jpg"
+  },
+  {
+	"kode": "NZIA",
+	"nama": "PT Nusantara Almazia, Tbk.",
+	"logo": "https://s3.goapi.id/logo/NZIA.jpg"
+  },
+  {
+	"kode": "OASA",
+	"nama": "PT Protech Mitra Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/OASA.jpg"
+  },
+  {
+	"kode": "OBMD",
+	"nama": "PT OBM Drilchem Tbk",
+	"logo": "https://s3.goapi.id/logo/OBMD.jpg"
+  },
+  {
+	"kode": "OCAP",
+	"nama": "ONIX CAPITAL Tbk",
+	"logo": "https://s3.goapi.id/logo/OCAP.jpg"
+  },
+  {
+	"kode": "OILS",
+	"nama": "PT Indo Oil Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/OILS.jpg"
+  },
+  {
+	"kode": "OKAS",
+	"nama": "Ancora Indonesia Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/OKAS.jpg"
+  },
+  {
+	"kode": "OLIV",
+	"nama": "PT Oscar Mitra Sukses Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/OLIV.jpg"
+  },
+  {
+	"kode": "OMED",
+	"nama": "PT Jayamas Medica Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/OMED.jpg"
+  },
+  {
+	"kode": "OMRE",
+	"nama": "Indonesia Prima Property Tbk",
+	"logo": "https://s3.goapi.id/logo/OMRE.jpg"
+  },
+  {
+	"kode": "OPMS",
+	"nama": "PT Optima Prima Metal Sinergi Tbk.",
+	"logo": "https://s3.goapi.id/logo/OPMS.jpg"
+  },
+  {
+	"kode": "PACK",
+	"nama": "PT Solusi Kemasan Digital Tbk",
+	"logo": "https://s3.goapi.id/logo/PACK.jpg"
+  },
+  {
+	"kode": "PADA",
+	"nama": "PT Personel Alih Daya Tbk",
+	"logo": "https://s3.goapi.id/logo/PADA.jpg"
+  },
+  {
+	"kode": "PADI",
+	"nama": "Minna Padi Investama Sekuritas Tbk",
+	"logo": "https://s3.goapi.id/logo/PADI.jpg"
+  },
+  {
+	"kode": "PALM",
+	"nama": "Provident Agro Tbk",
+	"logo": "https://s3.goapi.id/logo/PALM.jpg"
+  },
+  {
+	"kode": "PAMG",
+	"nama": "PT Bima Sakti Pertiwi Tbk",
+	"logo": "https://s3.goapi.id/logo/PAMG.jpg"
+  },
+  {
+	"kode": "PANI",
+	"nama": "PT Pratama Abadi Nusa Industri Tbk.",
+	"logo": "https://s3.goapi.id/logo/PANI.jpg"
+  },
+  {
+	"kode": "PANR",
+	"nama": "Panorama Sentrawisata Tbk",
+	"logo": "https://s3.goapi.id/logo/PANR.jpg"
+  },
+  {
+	"kode": "PANS",
+	"nama": "Panin Sekuritas Tbk",
+	"logo": "https://s3.goapi.id/logo/PANS.jpg"
+  },
+  {
+	"kode": "PBID",
+	"nama": "PT Panca Budi Idaman Tbk",
+	"logo": "https://s3.goapi.id/logo/PBID.jpg"
+  },
+  {
+	"kode": "PBRX",
+	"nama": "Pan Brothers Tbk",
+	"logo": "https://s3.goapi.id/logo/PBRX.jpg"
+  },
+  {
+	"kode": "PBSA",
+	"nama": "PT Paramita Bangun Sarana Tbk",
+	"logo": "https://s3.goapi.id/logo/PBSA.jpg"
+  },
+  {
+	"kode": "PCAR",
+	"nama": "PT Prima Cakrawala Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/PCAR.jpg"
+  },
+  {
+	"kode": "PDES",
+	"nama": "Destinasi Tirta Nusantara Tbk",
+	"logo": "https://s3.goapi.id/logo/PDES.jpg"
+  },
+  {
+	"kode": "PDPP",
+	"nama": "PT Primadaya Plastisindo Tbk",
+	"logo": "https://s3.goapi.id/logo/PDPP.jpg"
+  },
+  {
+	"kode": "PEGE",
+	"nama": "PT Panca Global Kapital Tbk.",
+	"logo": "https://s3.goapi.id/logo/PEGE.jpg"
+  },
+  {
+	"kode": "PEHA",
+	"nama": "PT Phapros Tbk",
+	"logo": "https://s3.goapi.id/logo/PEHA.jpg"
+  },
+  {
+	"kode": "PEVE",
+	"nama": "PT Penta Valent Tbk",
+	"logo": "https://s3.goapi.id/logo/PEVE.jpg"
+  },
+  {
+	"kode": "PGAS",
+	"nama": "PT Perusahaan Gas Negara Tbk.",
+	"logo": "https://s3.goapi.id/logo/PGAS.jpg"
+  },
+  {
+	"kode": "PGEO",
+	"nama": "PT Pertamina Geothermal Energy Tbk",
+	"logo": "https://s3.goapi.id/logo/PGEO.jpg"
+  },
+  {
+	"kode": "PGJO",
+	"nama": "PT Tourindo Guide Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/PGJO.jpg"
+  },
+  {
+	"kode": "PGLI",
+	"nama": "Pembangunan Graha Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/PGLI.jpg"
+  },
+  {
+	"kode": "PGUN",
+	"nama": "PT Pradiksi Gunatama Tbk",
+	"logo": "https://s3.goapi.id/logo/PGUN.jpg"
+  },
+  {
+	"kode": "PICO",
+	"nama": "Pelangi Indah Canindo Tbk",
+	"logo": "https://s3.goapi.id/logo/PICO.jpg"
+  },
+  {
+	"kode": "PJAA",
+	"nama": "Pembangunan Jaya Ancol Tbk",
+	"logo": "https://s3.goapi.id/logo/PJAA.jpg"
+  },
+  {
+	"kode": "PKPK",
+	"nama": "Perdana Karya Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/PKPK.jpg"
+  },
+  {
+	"kode": "PLAN",
+	"nama": "PT Planet Properindo Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/PLAN.jpg"
+  },
+  {
+	"kode": "PLAS",
+	"nama": "Polaris Investama Tbk",
+	"logo": "https://s3.goapi.id/logo/PLAS.jpg"
+  },
+  {
+	"kode": "PLIN",
+	"nama": "Plaza Indonesia Realty Tbk",
+	"logo": "https://s3.goapi.id/logo/PLIN.jpg"
+  },
+  {
+	"kode": "PMJS",
+	"nama": "PT Putra Mandiri Jembar Tbk",
+	"logo": "https://s3.goapi.id/logo/PMJS.jpg"
+  },
+  {
+	"kode": "PMMP",
+	"nama": "PT Panca Mitra Multiperdana Tbk.",
+	"logo": "https://s3.goapi.id/logo/PMMP.jpg"
+  },
+  {
+	"kode": "PNBN",
+	"nama": "Bank Pan Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/PNBN.jpg"
+  },
+  {
+	"kode": "PNBS",
+	"nama": "PT Bank Panin Dubai Syariah Tbk.",
+	"logo": "https://s3.goapi.id/logo/PNBS.jpg"
+  },
+  {
+	"kode": "PNGO",
+	"nama": "PT Pinago Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/PNGO.jpg"
+  },
+  {
+	"kode": "PNIN",
+	"nama": "Paninvest Tbk",
+	"logo": "https://s3.goapi.id/logo/PNIN.jpg"
+  },
+  {
+	"kode": "PNLF",
+	"nama": "Panin Financial Tbk",
+	"logo": "https://s3.goapi.id/logo/PNLF.jpg"
+  },
+  {
+	"kode": "PNSE",
+	"nama": "Pudjiadi & Sons Tbk",
+	"logo": "https://s3.goapi.id/logo/PNSE.jpg"
+  },
+  {
+	"kode": "POLA",
+	"nama": "PT Pool Advista Finance Tbk.",
+	"logo": "https://s3.goapi.id/logo/POLA.jpg"
+  },
+  {
+	"kode": "POLI",
+	"nama": "PT Pollux Hotels Group Tbk",
+	"logo": "https://s3.goapi.id/logo/POLI.jpg"
+  },
+  {
+	"kode": "POLL",
+	"nama": "PT Pollux Properties Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/POLL.jpg"
+  },
+  {
+	"kode": "POLU",
+	"nama": "PT Golden Flower Tbk.",
+	"logo": "https://s3.goapi.id/logo/POLU.jpg"
+  },
+  {
+	"kode": "POLY",
+	"nama": "Asia Pacific Fibers Tbk",
+	"logo": "https://s3.goapi.id/logo/POLY.jpg"
+  },
+  {
+	"kode": "POOL",
+	"nama": "Pool Advista Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/POOL.jpg"
+  },
+  {
+	"kode": "PORT",
+	"nama": "PT Nusantara Pelabuhan Handal Tbk.",
+	"logo": "https://s3.goapi.id/logo/PORT.jpg"
+  },
+  {
+	"kode": "POSA",
+	"nama": "PT Bliss Properti Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/POSA.jpg"
+  },
+  {
+	"kode": "POWR",
+	"nama": "PT Cikarang Listrindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/POWR.jpg"
+  },
+  {
+	"kode": "PPGL",
+	"nama": "PT Prima Globalindo Logistik Tbk.",
+	"logo": "https://s3.goapi.id/logo/PPGL.jpg"
+  },
+  {
+	"kode": "PPRE",
+	"nama": "PT PP Presisi Tbk.",
+	"logo": "https://s3.goapi.id/logo/PPRE.jpg"
+  },
+  {
+	"kode": "PPRO",
+	"nama": "PT PP Properti Tbk.",
+	"logo": "https://s3.goapi.id/logo/PPRO.jpg"
+  },
+  {
+	"kode": "PRAS",
+	"nama": "Prima Alloy Steel Universal Tbk",
+	"logo": "https://s3.goapi.id/logo/PRAS.jpg"
+  },
+  {
+	"kode": "PRAY",
+	"nama": "PT Famon Awal Bros Sedaya Tbk",
+	"logo": "https://s3.goapi.id/logo/PRAY.jpg"
+  },
+  {
+	"kode": "PRDA",
+	"nama": "PT Prodia Widyahusada Tbk.",
+	"logo": "https://s3.goapi.id/logo/PRDA.jpg"
+  },
+  {
+	"kode": "PRIM",
+	"nama": "PT Royal Prima Tbk.",
+	"logo": "https://s3.goapi.id/logo/PRIM.jpg"
+  },
+  {
+	"kode": "PSAB",
+	"nama": "J RESOURCES ASIA PASIFIK Tbk",
+	"logo": "https://s3.goapi.id/logo/PSAB.jpg"
+  },
+  {
+	"kode": "PSDN",
+	"nama": "Prasidha Aneka Niaga Tbk",
+	"logo": "https://s3.goapi.id/logo/PSDN.jpg"
+  },
+  {
+	"kode": "PSGO",
+	"nama": "PT Palma Serasih Tbk.",
+	"logo": "https://s3.goapi.id/logo/PSGO.jpg"
+  },
+  {
+	"kode": "PSKT",
+	"nama": "PT Red Planet Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/PSKT.jpg"
+  },
+  {
+	"kode": "PSSI",
+	"nama": "PT Pelita Samudera Shipping Tbk",
+	"logo": "https://s3.goapi.id/logo/PSSI.jpg"
+  },
+  {
+	"kode": "PTBA",
+	"nama": "Bukit Asam Tbk",
+	"logo": "https://s3.goapi.id/logo/PTBA.jpg"
+  },
+  {
+	"kode": "PTDU",
+	"nama": "PT Djasa Ubersakti Tbk",
+	"logo": "https://s3.goapi.id/logo/PTDU.jpg"
+  },
+  {
+	"kode": "PTIS",
+	"nama": "Indo Straits Tbk",
+	"logo": "https://s3.goapi.id/logo/PTIS.jpg"
+  },
+  {
+	"kode": "PTMP",
+	"nama": "PT Mitra Pack Tbk.",
+	"logo": "https://s3.goapi.id/logo/PTMP.jpg"
+  },
+  {
+	"kode": "PTPP",
+	"nama": "PP (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/PTPP.jpg"
+  },
+  {
+	"kode": "PTPW",
+	"nama": "PT Pratama Widya Tbk.",
+	"logo": "https://s3.goapi.id/logo/PTPW.jpg"
+  },
+  {
+	"kode": "PTRO",
+	"nama": "Petrosea Tbk",
+	"logo": "https://s3.goapi.id/logo/PTRO.jpg"
+  },
+  {
+	"kode": "PTSN",
+	"nama": "Sat Nusapersada Tbk",
+	"logo": "https://s3.goapi.id/logo/PTSN.jpg"
+  },
+  {
+	"kode": "PTSP",
+	"nama": "Pioneerindo Gourmet International Tbk",
+	"logo": "https://s3.goapi.id/logo/PTSP.jpg"
+  },
+  {
+	"kode": "PUDP",
+	"nama": "Pudjiadi Prestige Tbk",
+	"logo": "https://s3.goapi.id/logo/PUDP.jpg"
+  },
+  {
+	"kode": "PURA",
+	"nama": "PT Putra Rajawali Kencana Tbk.",
+	"logo": "https://s3.goapi.id/logo/PURA.jpg"
+  },
+  {
+	"kode": "PURE",
+	"nama": "PT Trinitan Metals and Minerals Tbk",
+	"logo": "https://s3.goapi.id/logo/PURE.jpg"
+  },
+  {
+	"kode": "PURI",
+	"nama": "PT Puri Global Sukses Tbk",
+	"logo": "https://s3.goapi.id/logo/PURI.jpg"
+  },
+  {
+	"kode": "PWON",
+	"nama": "Pakuwon Jati Tbk",
+	"logo": "https://s3.goapi.id/logo/PWON.jpg"
+  },
+  {
+	"kode": "PYFA",
+	"nama": "Pyridam Farma Tbk",
+	"logo": "https://s3.goapi.id/logo/PYFA.jpg"
+  },
+  {
+	"kode": "PZZA",
+	"nama": "PT Sarimelati Kencana Tbk.",
+	"logo": "https://s3.goapi.id/logo/PZZA.jpg"
+  },
+  {
+	"kode": "RAFI",
+	"nama": "PT Sari Kreasi Boga Tbk",
+	"logo": "https://s3.goapi.id/logo/RAFI.jpg"
+  },
+  {
+	"kode": "RAJA",
+	"nama": "Rukun Raharja Tbk",
+	"logo": "https://s3.goapi.id/logo/RAJA.jpg"
+  },
+  {
+	"kode": "RALS",
+	"nama": "Ramayana Lestari Sentosa Tbk",
+	"logo": "https://s3.goapi.id/logo/RALS.jpg"
+  },
+  {
+	"kode": "RANC",
+	"nama": "Supra Boga Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/RANC.jpg"
+  },
+  {
+	"kode": "RBMS",
+	"nama": "Ristia Bintang Mahkotasejati Tbk",
+	"logo": "https://s3.goapi.id/logo/RBMS.jpg"
+  },
+  {
+	"kode": "RCCC",
+	"nama": "PT Utama Radar Cahaya Tbk",
+	"logo": "https://s3.goapi.id/logo/RCCC.jpg"
+  },
+  {
+	"kode": "RDTX",
+	"nama": "Roda Vivatex Tbk",
+	"logo": "https://s3.goapi.id/logo/RDTX.jpg"
+  },
+  {
+	"kode": "REAL",
+	"nama": "PT Repower Asia Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/REAL.jpg"
+  },
+  {
+	"kode": "RELI",
+	"nama": "Reliance Sekuritas Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/RELI.jpg"
+  },
+  {
+	"kode": "RICY",
+	"nama": "Ricky Putra Globalindo Tbk",
+	"logo": "https://s3.goapi.id/logo/RICY.jpg"
+  },
+  {
+	"kode": "RIGS",
+	"nama": "Rig Tenders Tbk",
+	"logo": "https://s3.goapi.id/logo/RIGS.jpg"
+  },
+  {
+	"kode": "RIMO",
+	"nama": "PT Rimo International Lestari Tbk.",
+	"logo": "https://s3.goapi.id/logo/RIMO.jpg"
+  },
+  {
+	"kode": "RISE",
+	"nama": "PT Jaya Sukses Makmur Sentosa Tbk.",
+	"logo": "https://s3.goapi.id/logo/RISE.jpg"
+  },
+  {
+	"kode": "RMBA",
+	"nama": "Bentoel International Investama Tbk",
+	"logo": "https://s3.goapi.id/logo/RMBA.jpg"
+  },
+  {
+	"kode": "RMKE",
+	"nama": "PT RMK Energy Tbk",
+	"logo": "https://s3.goapi.id/logo/RMKE.jpg"
+  },
+  {
+	"kode": "ROCK",
+	"nama": "PT Rockfields Properti Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/ROCK.jpg"
+  },
+  {
+	"kode": "RODA",
+	"nama": "Pikko Land Development Tbk",
+	"logo": "https://s3.goapi.id/logo/RODA.jpg"
+  },
+  {
+	"kode": "RONY",
+	"nama": "PT Aesler Grup Internasional Tbk",
+	"logo": "https://s3.goapi.id/logo/RONY.jpg"
+  },
+  {
+	"kode": "ROTI",
+	"nama": "PT Nippon Indosari Corpindo Tbk",
+	"logo": "https://s3.goapi.id/logo/ROTI.jpg"
+  },
+  {
+	"kode": "RSGK",
+	"nama": "PT Kedoya Adyaraya Tbk",
+	"logo": "https://s3.goapi.id/logo/RSGK.jpg"
+  },
+  {
+	"kode": "RUIS",
+	"nama": "Radiant Utama Interinsco Tbk",
+	"logo": "https://s3.goapi.id/logo/RUIS.jpg"
+  },
+  {
+	"kode": "RUNS",
+	"nama": "PT Global Sukses Solusi Tbk",
+	"logo": "https://s3.goapi.id/logo/RUNS.jpg"
+  },
+  {
+	"kode": "SAFE",
+	"nama": "Steady Safe Tbk",
+	"logo": "https://s3.goapi.id/logo/SAFE.jpg"
+  },
+  {
+	"kode": "SAGE",
+	"nama": "PT Saptausaha Gemilangindah Tbk",
+	"logo": "https://s3.goapi.id/logo/SAGE.jpg"
+  },
+  {
+	"kode": "SAME",
+	"nama": "Sarana Meditama Metropolitan Tbk",
+	"logo": "https://s3.goapi.id/logo/SAME.jpg"
+  },
+  {
+	"kode": "SAMF",
+	"nama": "PT Saraswanti Anugerah Makmur Tbk.",
+	"logo": "https://s3.goapi.id/logo/SAMF.jpg"
+  },
+  {
+	"kode": "SAPX",
+	"nama": "PT Satria Antaran Prima Tbk.",
+	"logo": "https://s3.goapi.id/logo/SAPX.jpg"
+  },
+  {
+	"kode": "SATU",
+	"nama": "PT Kota Satu Properti Tbk.",
+	"logo": "https://s3.goapi.id/logo/SATU.jpg"
+  },
+  {
+	"kode": "SBAT",
+	"nama": "PT Sejahtera Bintang Abadi Textile Tbk.",
+	"logo": "https://s3.goapi.id/logo/SBAT.jpg"
+  },
+  {
+	"kode": "SBMA",
+	"nama": "PT Surya Biru Murni Acetylene Tbk",
+	"logo": "https://s3.goapi.id/logo/SBMA.jpg"
+  },
+  {
+	"kode": "SCBD",
+	"nama": "Danayasa Arthatama Tbk",
+	"logo": "https://s3.goapi.id/logo/SCBD.jpg"
+  },
+  {
+	"kode": "SCCO",
+	"nama": "PT Supreme Cable Manufacturing & Commerce Tbk",
+	"logo": "https://s3.goapi.id/logo/SCCO.jpg"
+  },
+  {
+	"kode": "SCMA",
+	"nama": "Surya Citra Media Tbk",
+	"logo": "https://s3.goapi.id/logo/SCMA.jpg"
+  },
+  {
+	"kode": "SCNP",
+	"nama": "PT Selaras Citra Nusantara Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/SCNP.jpg"
+  },
+  {
+	"kode": "SCPI",
+	"nama": "PT Organon Pharma Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/SCPI.jpg"
+  },
+  {
+	"kode": "SDMU",
+	"nama": "Sidomulyo Selaras Tbk",
+	"logo": "https://s3.goapi.id/logo/SDMU.jpg"
+  },
+  {
+	"kode": "SDPC",
+	"nama": "Millennium Pharmacon International Tbk",
+	"logo": "https://s3.goapi.id/logo/SDPC.jpg"
+  },
+  {
+	"kode": "SDRA",
+	"nama": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+	"logo": "https://s3.goapi.id/logo/SDRA.jpg"
+  },
+  {
+	"kode": "SEMA",
+	"nama": "PT Semacom Integrated Tbk",
+	"logo": "https://s3.goapi.id/logo/SEMA.jpg"
+  },
+  {
+	"kode": "SFAN",
+	"nama": "PT Surya Fajar Capital Tbk",
+	"logo": "https://s3.goapi.id/logo/SFAN.jpg"
+  },
+  {
+	"kode": "SGER",
+	"nama": "PT Sumber Global Energy Tbk.",
+	"logo": "https://s3.goapi.id/logo/SGER.jpg"
+  },
+  {
+	"kode": "SGRO",
+	"nama": "PT Sampoerna Agro Tbk",
+	"logo": "https://s3.goapi.id/logo/SGRO.jpg"
+  },
+  {
+	"kode": "SHID",
+	"nama": "Hotel Sahid Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/SHID.jpg"
+  },
+  {
+	"kode": "SHIP",
+	"nama": "PT Sillo Maritime Perdana Tbk",
+	"logo": "https://s3.goapi.id/logo/SHIP.jpg"
+  },
+  {
+	"kode": "SIAP",
+	"nama": "Sekawan Intipratama Tbk",
+	"logo": "https://s3.goapi.id/logo/SIAP.jpg"
+  },
+  {
+	"kode": "SICO",
+	"nama": "PT Sigma Energy Compressindo Tbk",
+	"logo": "https://s3.goapi.id/logo/SICO.jpg"
+  },
+  {
+	"kode": "SIDO",
+	"nama": "PT Industri Jamu Dan Farmasi Sido Muncul Tbk",
+	"logo": "https://s3.goapi.id/logo/SIDO.jpg"
+  },
+  {
+	"kode": "SILO",
+	"nama": "PT Siloam International Hospitals Tbk.",
+	"logo": "https://s3.goapi.id/logo/SILO.jpg"
+  },
+  {
+	"kode": "SIMA",
+	"nama": "Siwani Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/SIMA.jpg"
+  },
+  {
+	"kode": "SIMM",
+	"nama": "PT Surya Intrindo Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/SIMM.jpg"
+  },
+  {
+	"kode": "SIMP",
+	"nama": "Salim Ivomas Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/SIMP.jpg"
+  },
+  {
+	"kode": "SINI",
+	"nama": "PT Singaraja Putra Tbk.",
+	"logo": "https://s3.goapi.id/logo/SINI.jpg"
+  },
+  {
+	"kode": "SIPD",
+	"nama": "PT Sreeya Sewu Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/SIPD.jpg"
+  },
+  {
+	"kode": "SKBM",
+	"nama": "Sekar Bumi Tbk",
+	"logo": "https://s3.goapi.id/logo/SKBM.jpg"
+  },
+  {
+	"kode": "SKLT",
+	"nama": "Sekar Laut Tbk",
+	"logo": "https://s3.goapi.id/logo/SKLT.jpg"
+  },
+  {
+	"kode": "SKRN",
+	"nama": "PT Superkrane Mitra Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/SKRN.jpg"
+  },
+  {
+	"kode": "SKYB",
+	"nama": "PT Northcliff Citranusa Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/SKYB.jpg"
+  },
+  {
+	"kode": "SLIS",
+	"nama": "PT Gaya Abadi Sempurna Tbk",
+	"logo": "https://s3.goapi.id/logo/SLIS.jpg"
+  },
+  {
+	"kode": "SMAR",
+	"nama": "PT Sinar Mas Agro Resources and Technology Tbk",
+	"logo": "https://s3.goapi.id/logo/SMAR.jpg"
+  },
+  {
+	"kode": "SMBR",
+	"nama": "PT Semen Baturaja (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/SMBR.jpg"
+  },
+  {
+	"kode": "SMCB",
+	"nama": "PT Solusi Bangun Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/SMCB.jpg"
+  },
+  {
+	"kode": "SMDM",
+	"nama": "Suryamas Dutamakmur Tbk",
+	"logo": "https://s3.goapi.id/logo/SMDM.jpg"
+  },
+  {
+	"kode": "SMDR",
+	"nama": "Samudera Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/SMDR.jpg"
+  },
+  {
+	"kode": "SMGR",
+	"nama": "Semen Indonesia (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/SMGR.jpg"
+  },
+  {
+	"kode": "SMKL",
+	"nama": "PT Satyamitra Kemas Lestari Tbk",
+	"logo": "https://s3.goapi.id/logo/SMKL.jpg"
+  },
+  {
+	"kode": "SMKM",
+	"nama": "PT Sumber Mas Konstruksi Tbk",
+	"logo": "https://s3.goapi.id/logo/SMKM.jpg"
+  },
+  {
+	"kode": "SMMA",
+	"nama": "PT Sinar Mas Multiartha Tbk",
+	"logo": "https://s3.goapi.id/logo/SMMA.jpg"
+  },
+  {
+	"kode": "SMMT",
+	"nama": "GOLDEN EAGLE ENERGY Tbk",
+	"logo": "https://s3.goapi.id/logo/SMMT.jpg"
+  },
+  {
+	"kode": "SMRA",
+	"nama": "PT Summarecon Agung Tbk",
+	"logo": "https://s3.goapi.id/logo/SMRA.jpg"
+  },
+  {
+	"kode": "SMRU",
+	"nama": "SMR Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/SMRU.jpg"
+  },
+  {
+	"kode": "SMSM",
+	"nama": "Selamat Sempurna Tbk",
+	"logo": "https://s3.goapi.id/logo/SMSM.jpg"
+  },
+  {
+	"kode": "SNLK",
+	"nama": "PT Sunter Lakeside Hotel Tbk.",
+	"logo": "https://s3.goapi.id/logo/SNLK.jpg"
+  },
+  {
+	"kode": "SOCI",
+	"nama": "PT Soechi Lines Tbk. ",
+	"logo": "https://s3.goapi.id/logo/SOCI.jpg"
+  },
+  {
+	"kode": "SOFA",
+	"nama": "PT Boston Furniture Industries Tbk..",
+	"logo": "https://s3.goapi.id/logo/SOFA.jpg"
+  },
+  {
+	"kode": "SOHO",
+	"nama": "PT Soho Global Health Tbk",
+	"logo": "https://s3.goapi.id/logo/SOHO.jpg"
+  },
+  {
+	"kode": "SONA",
+	"nama": "Sona Topas Tourism Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/SONA.jpg"
+  },
+  {
+	"kode": "SOSS",
+	"nama": "PT Shield On Service Tbk.",
+	"logo": "https://s3.goapi.id/logo/SOSS.jpg"
+  },
+  {
+	"kode": "SOTS",
+	"nama": "PT Satria Mega Kencana Tbk.",
+	"logo": "https://s3.goapi.id/logo/SOTS.jpg"
+  },
+  {
+	"kode": "SOUL",
+	"nama": "PT Mitra Tirta Buwana Tbk",
+	"logo": "https://s3.goapi.id/logo/SOUL.jpg"
+  },
+  {
+	"kode": "SPMA",
+	"nama": "Suparma Tbk",
+	"logo": "https://s3.goapi.id/logo/SPMA.jpg"
+  },
+  {
+	"kode": "SPOT",
+	"nama": "PT Sofyan Hotels Tbk",
+	"logo": "https://s3.goapi.id/logo/SPOT.jpg"
+  },
+  {
+	"kode": "SPTO",
+	"nama": "PT Surya Pertiwi Tbk",
+	"logo": "https://s3.goapi.id/logo/SPTO.jpg"
+  },
+  {
+	"kode": "SQMI",
+	"nama": "Wilton Makmur Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/SQMI.jpg"
+  },
+  {
+	"kode": "SRAJ",
+	"nama": "Sejahteraraya Anugrahjaya Tbk",
+	"logo": "https://s3.goapi.id/logo/SRAJ.jpg"
+  },
+  {
+	"kode": "SRIL",
+	"nama": "PT Sri Rejeki Isman Tbk",
+	"logo": "https://s3.goapi.id/logo/SRIL.jpg"
+  },
+  {
+	"kode": "SRSN",
+	"nama": "Indo Acidatama Tbk",
+	"logo": "https://s3.goapi.id/logo/SRSN.jpg"
+  },
+  {
+	"kode": "SRTG",
+	"nama": "PT Saratoga Investama Sedaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/SRTG.jpg"
+  },
+  {
+	"kode": "SSIA",
+	"nama": "PT Surya Semesta Internusa Tbk",
+	"logo": "https://s3.goapi.id/logo/SSIA.jpg"
+  },
+  {
+	"kode": "SSMS",
+	"nama": "PT Sawit Sumbermas Sarana Tbk. ",
+	"logo": "https://s3.goapi.id/logo/SSMS.jpg"
+  },
+  {
+	"kode": "SSTM",
+	"nama": "Sunson Textile Manufacturer Tbk",
+	"logo": "https://s3.goapi.id/logo/SSTM.jpg"
+  },
+  {
+	"kode": "STAA",
+	"nama": "PT Sumber Tani Agung Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/STAA.jpg"
+  },
+  {
+	"kode": "STAR",
+	"nama": "PT Buana Artha Anugerah Tbk.",
+	"logo": "https://s3.goapi.id/logo/STAR.jpg"
+  },
+  {
+	"kode": "STTP",
+	"nama": "PT Siantar Top Tbk",
+	"logo": "https://s3.goapi.id/logo/STTP.jpg"
+  },
+  {
+	"kode": "SUDI",
+	"nama": "Surya Dumai Industri Tbk",
+	"logo": "https://s3.goapi.id/logo/SUDI.jpg"
+  },
+  {
+	"kode": "SUGI",
+	"nama": "Sugih Energy Tbk",
+	"logo": "https://s3.goapi.id/logo/SUGI.jpg"
+  },
+  {
+	"kode": "SULI",
+	"nama": "PT SLJ Global Tbk",
+	"logo": "https://s3.goapi.id/logo/SULI.jpg"
+  },
+  {
+	"kode": "SUNI",
+	"nama": "PT Sunindo Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/SUNI.jpg"
+  },
+  {
+	"kode": "SUPR",
+	"nama": "Solusi Tunas Pratama Tbk",
+	"logo": "https://s3.goapi.id/logo/SUPR.jpg"
+  },
+  {
+	"kode": "SURE",
+	"nama": "PT Super Energy Tbk.",
+	"logo": "https://s3.goapi.id/logo/SURE.jpg"
+  },
+  {
+	"kode": "SWAT",
+	"nama": "PT Sriwahana Adityakarta Tbk.",
+	"logo": "https://s3.goapi.id/logo/SWAT.jpg"
+  },
+  {
+	"kode": "SWID",
+	"nama": "PT Saraswanti Indoland Development Tbk",
+	"logo": "https://s3.goapi.id/logo/SWID.jpg"
+  },
+  {
+	"kode": "TALF",
+	"nama": "PT Tunas Alfin Tbk",
+	"logo": "https://s3.goapi.id/logo/TALF.jpg"
+  },
+  {
+	"kode": "TAMA",
+	"nama": "PT Lancartama Sejati Tbk.",
+	"logo": "https://s3.goapi.id/logo/TAMA.jpg"
+  },
+  {
+	"kode": "TAMU",
+	"nama": "PT Pelayaran Tamarin Samudra Tbk.",
+	"logo": "https://s3.goapi.id/logo/TAMU.jpg"
+  },
+  {
+	"kode": "TAPG",
+	"nama": "PT Triputra Agro Persada Tbk.",
+	"logo": "https://s3.goapi.id/logo/TAPG.jpg"
+  },
+  {
+	"kode": "TARA",
+	"nama": "PT Agung Semesta Sejahtera Tbk",
+	"logo": "https://s3.goapi.id/logo/TARA.jpg"
+  },
+  {
+	"kode": "TAXI",
+	"nama": "Express Transindo Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/TAXI.jpg"
+  },
+  {
+	"kode": "TAYS",
+	"nama": "PT Jaya Swarasa Agung Tbk",
+	"logo": "https://s3.goapi.id/logo/TAYS.jpg"
+  },
+  {
+	"kode": "TBIG",
+	"nama": "PT Tower Bersama Infrastructure Tbk",
+	"logo": "https://s3.goapi.id/logo/TBIG.jpg"
+  },
+  {
+	"kode": "TBLA",
+	"nama": "Tunas Baru Lampung Tbk",
+	"logo": "https://s3.goapi.id/logo/TBLA.jpg"
+  },
+  {
+	"kode": "TBMS",
+	"nama": "Tembaga Mulia Semanan Tbk",
+	"logo": "https://s3.goapi.id/logo/TBMS.jpg"
+  },
+  {
+	"kode": "TCID",
+	"nama": "Mandom Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TCID.jpg"
+  },
+  {
+	"kode": "TCPI",
+	"nama": "PT Transcoal Pacific Tbk.",
+	"logo": "https://s3.goapi.id/logo/TCPI.jpg"
+  },
+  {
+	"kode": "TDPM",
+	"nama": "PT Tridomain Performance Materials Tbk.",
+	"logo": "https://s3.goapi.id/logo/TDPM.jpg"
+  },
+  {
+	"kode": "TEBE",
+	"nama": "PT Dana Brata Luhur Tbk.",
+	"logo": "https://s3.goapi.id/logo/TEBE.jpg"
+  },
+  {
+	"kode": "TECH",
+	"nama": "PT Indosterling Technomedia Tbk",
+	"logo": "https://s3.goapi.id/logo/TECH.jpg"
+  },
+  {
+	"kode": "TELE",
+	"nama": "PT Tiphone Mobile Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/TELE.jpg"
+  },
+  {
+	"kode": "TFAS",
+	"nama": "PT Telefast Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/TFAS.jpg"
+  },
+  {
+	"kode": "TFCO",
+	"nama": "Tifico Fiber Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TFCO.jpg"
+  },
+  {
+	"kode": "TGKA",
+	"nama": "Tigaraksa Satria Tbk",
+	"logo": "https://s3.goapi.id/logo/TGKA.jpg"
+  },
+  {
+	"kode": "TGRA",
+	"nama": "PT Terregra Asia Energy",
+	"logo": "https://s3.goapi.id/logo/TGRA.jpg"
+  },
+  {
+	"kode": "TIFA",
+	"nama": "KDB Tifa Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/TIFA.jpg"
+  },
+  {
+	"kode": "TINS",
+	"nama": "PT Timah Tbk. ",
+	"logo": "https://s3.goapi.id/logo/TINS.jpg"
+  },
+  {
+	"kode": "TIRA",
+	"nama": "Tira Austenite Tbk",
+	"logo": "https://s3.goapi.id/logo/TIRA.jpg"
+  },
+  {
+	"kode": "TIRT",
+	"nama": "Tirta Mahakam Resources Tbk",
+	"logo": "https://s3.goapi.id/logo/TIRT.jpg"
+  },
+  {
+	"kode": "TKIM",
+	"nama": "Pabrik Kertas Tjiwi Kimia Tbk",
+	"logo": "https://s3.goapi.id/logo/TKIM.jpg"
+  },
+  {
+	"kode": "TLDN",
+	"nama": "PT Teladan Prima Agro Tbk",
+	"logo": "https://s3.goapi.id/logo/TLDN.jpg"
+  },
+  {
+	"kode": "TLKM",
+	"nama": "PT Telkom Indonesia (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/TLKM.jpg"
+  },
+  {
+	"kode": "TMAS",
+	"nama": "PT Temas Tbk.",
+	"logo": "https://s3.goapi.id/logo/TMAS.jpg"
+  },
+  {
+	"kode": "TMPO",
+	"nama": "Tempo Inti Media Tbk",
+	"logo": "https://s3.goapi.id/logo/TMPO.jpg"
+  },
+  {
+	"kode": "TNCA",
+	"nama": "PT Trimuda Nuansa Citra Tbk.",
+	"logo": "https://s3.goapi.id/logo/TNCA.jpg"
+  },
+  {
+	"kode": "TOBA",
+	"nama": "PT TBS Energi Utama Tbk",
+	"logo": "https://s3.goapi.id/logo/TOBA.jpg"
+  },
+  {
+	"kode": "TOOL",
+	"nama": "PT Rohartindo Nusantara Luas Tbk",
+	"logo": "https://s3.goapi.id/logo/TOOL.jpg"
+  },
+  {
+	"kode": "TOPS",
+	"nama": "PT Totalindo Eka Persada Tbk.",
+	"logo": "https://s3.goapi.id/logo/TOPS.jpg"
+  },
+  {
+	"kode": "TOTL",
+	"nama": "Total Bangun Persada Tbk",
+	"logo": "https://s3.goapi.id/logo/TOTL.jpg"
+  },
+  {
+	"kode": "TOTO",
+	"nama": "Surya Toto Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TOTO.jpg"
+  },
+  {
+	"kode": "TOWR",
+	"nama": "Sarana Menara Nusantara Tbk",
+	"logo": "https://s3.goapi.id/logo/TOWR.jpg"
+  },
+  {
+	"kode": "TOYS",
+	"nama": "PT Sunindo Adipersada Tbk.",
+	"logo": "https://s3.goapi.id/logo/TOYS.jpg"
+  },
+  {
+	"kode": "TPEN",
+	"nama": "PT Texmaco Perkasa Engineering Tbk.",
+	"logo": "https://s3.goapi.id/logo/TPEN.jpg"
+  },
+  {
+	"kode": "TPIA",
+	"nama": "PT Chandra Asri Petrochemical Tbk",
+	"logo": "https://s3.goapi.id/logo/TPIA.jpg"
+  },
+  {
+	"kode": "TPMA",
+	"nama": "Trans Power Marine Tbk",
+	"logo": "https://s3.goapi.id/logo/TPMA.jpg"
+  },
+  {
+	"kode": "TRAM",
+	"nama": "Trada Alam Minera Tbk.",
+	"logo": "https://s3.goapi.id/logo/TRAM.jpg"
+  },
+  {
+	"kode": "TRGU",
+	"nama": "PT Cerestar Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TRGU.jpg"
+  },
+  {
+	"kode": "TRIL",
+	"nama": "Triwira Insanlestari Tbk",
+	"logo": "https://s3.goapi.id/logo/TRIL.jpg"
+  },
+  {
+	"kode": "TRIM",
+	"nama": "PT Trimegah Sekuritas Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TRIM.jpg"
+  },
+  {
+	"kode": "TRIN",
+	"nama": "PT Perintis Triniti Properti Tbk",
+	"logo": "https://s3.goapi.id/logo/TRIN.jpg"
+  },
+  {
+	"kode": "TRIO",
+	"nama": "Trikomsel Oke Tbk",
+	"logo": "https://s3.goapi.id/logo/TRIO.jpg"
+  },
+  {
+	"kode": "TRIS",
+	"nama": "Trisula International Tbk",
+	"logo": "https://s3.goapi.id/logo/TRIS.jpg"
+  },
+  {
+	"kode": "TRJA",
+	"nama": "PT Transkon Jaya Tbk.",
+	"logo": "https://s3.goapi.id/logo/TRJA.jpg"
+  },
+  {
+	"kode": "TRON",
+	"nama": "PT Teknologi Karya Digital Nusa Tbk.",
+	"logo": "https://s3.goapi.id/logo/TRON.jpg"
+  },
+  {
+	"kode": "TRST",
+	"nama": "Trias Sentosa Tbk",
+	"logo": "https://s3.goapi.id/logo/TRST.jpg"
+  },
+  {
+	"kode": "TRUE",
+	"nama": "PT Triniti Dinamik Tbk",
+	"logo": "https://s3.goapi.id/logo/TRUE.jpg"
+  },
+  {
+	"kode": "TRUK",
+	"nama": "PT Guna Timur Raya Tbk.",
+	"logo": "https://s3.goapi.id/logo/TRUK.jpg"
+  },
+  {
+	"kode": "TRUS",
+	"nama": "Trust Finance Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TRUS.jpg"
+  },
+  {
+	"kode": "TSPC",
+	"nama": "Tempo Scan Pacific Tbk",
+	"logo": "https://s3.goapi.id/logo/TSPC.jpg"
+  },
+  {
+	"kode": "TUGU",
+	"nama": "PT Asuransi Tugu Pratama Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/TUGU.jpg"
+  },
+  {
+	"kode": "TURI",
+	"nama": "Tunas Ridean Tbk",
+	"logo": "https://s3.goapi.id/logo/TURI.jpg"
+  },
+  {
+	"kode": "UANG",
+	"nama": "PT Pakuan Tbk",
+	"logo": "https://s3.goapi.id/logo/UANG.jpg"
+  },
+  {
+	"kode": "UCID",
+	"nama": "PT Uni-Charm Indonesia Tbk.",
+	"logo": "https://s3.goapi.id/logo/UCID.jpg"
+  },
+  {
+	"kode": "UFOE",
+	"nama": "PT Damai Sejahtera Abadi Tbk",
+	"logo": "https://s3.goapi.id/logo/UFOE.jpg"
+  },
+  {
+	"kode": "ULTJ",
+	"nama": "Ultra Jaya Milk Industry Tbk",
+	"logo": "https://s3.goapi.id/logo/ULTJ.jpg"
+  },
+  {
+	"kode": "UNIC",
+	"nama": "Unggul Indah Cahaya Tbk",
+	"logo": "https://s3.goapi.id/logo/UNIC.jpg"
+  },
+  {
+	"kode": "UNIQ",
+	"nama": "PT Ulima Nitra Tbk",
+	"logo": "https://s3.goapi.id/logo/UNIQ.jpg"
+  },
+  {
+	"kode": "UNIT",
+	"nama": "Nusantara Inti Corpora Tbk",
+	"logo": "https://s3.goapi.id/logo/UNIT.jpg"
+  },
+  {
+	"kode": "UNSP",
+	"nama": "Bakrie Sumatera Plantations Tbk",
+	"logo": "https://s3.goapi.id/logo/UNSP.jpg"
+  },
+  {
+	"kode": "UNTR",
+	"nama": "United Tractors Tbk",
+	"logo": "https://s3.goapi.id/logo/UNTR.jpg"
+  },
+  {
+	"kode": "UNVR",
+	"nama": "Unilever Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/UNVR.jpg"
+  },
+  {
+	"kode": "URBN",
+	"nama": "PT Urban Jakarta Propertindo Tbk.",
+	"logo": "https://s3.goapi.id/logo/URBN.jpg"
+  },
+  {
+	"kode": "UVCR",
+	"nama": "PT Trimegah Karya Pratama Tbk.",
+	"logo": "https://s3.goapi.id/logo/UVCR.jpg"
+  },
+  {
+	"kode": "VAST",
+	"nama": "PT Vastland Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/VAST.jpg"
+  },
+  {
+	"kode": "VICI",
+	"nama": "PT Victoria Care Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/VICI.jpg"
+  },
+  {
+	"kode": "VICO",
+	"nama": "PT Victoria Investama Tbk.",
+	"logo": "https://s3.goapi.id/logo/VICO.jpg"
+  },
+  {
+	"kode": "VINS",
+	"nama": "PT Victoria Insurance Tbk.",
+	"logo": "https://s3.goapi.id/logo/VINS.jpg"
+  },
+  {
+	"kode": "VIVA",
+	"nama": "PT Visi Media Asia Tbk",
+	"logo": "https://s3.goapi.id/logo/VIVA.jpg"
+  },
+  {
+	"kode": "VOKS",
+	"nama": "Voksel Electric Tbk",
+	"logo": "https://s3.goapi.id/logo/VOKS.jpg"
+  },
+  {
+	"kode": "VRNA",
+	"nama": "Verena Multi Finance Tbk",
+	"logo": "https://s3.goapi.id/logo/VRNA.jpg"
+  },
+  {
+	"kode": "VTNY",
+	"nama": "PT Venteny Fortuna International Tbk",
+	"logo": "https://s3.goapi.id/logo/VTNY.jpg"
+  },
+  {
+	"kode": "WAPO",
+	"nama": "Wahana Pronatural Tbk",
+	"logo": "https://s3.goapi.id/logo/WAPO.jpg"
+  },
+  {
+	"kode": "WEGE",
+	"nama": "PT Wijaya Karya Bangunan Gedung Tbk.",
+	"logo": "https://s3.goapi.id/logo/WEGE.jpg"
+  },
+  {
+	"kode": "WEHA",
+	"nama": "PT WEHA Transportasi Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/WEHA.jpg"
+  },
+  {
+	"kode": "WGSH",
+	"nama": "PT Wira Global Solusi Tbk",
+	"logo": "https://s3.goapi.id/logo/WGSH.jpg"
+  },
+  {
+	"kode": "WICO",
+	"nama": "Wicaksana Overseas International Tbk",
+	"logo": "https://s3.goapi.id/logo/WICO.jpg"
+  },
+  {
+	"kode": "WIFI",
+	"nama": "PT Solusi Sinergi Digital Tbk",
+	"logo": "https://s3.goapi.id/logo/WIFI.jpg"
+  },
+  {
+	"kode": "WIIM",
+	"nama": "Wismilak Inti Makmur Tbk",
+	"logo": "https://s3.goapi.id/logo/WIIM.jpg"
+  },
+  {
+	"kode": "WIKA",
+	"nama": "PT Wijaya Karya (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/WIKA.jpg"
+  },
+  {
+	"kode": "WINE",
+	"nama": "PT Hatten Bali Tbk",
+	"logo": "https://s3.goapi.id/logo/WINE.jpg"
+  },
+  {
+	"kode": "WINR",
+	"nama": "PT Winner Nusantara Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/WINR.jpg"
+  },
+  {
+	"kode": "WINS",
+	"nama": "Wintermar Offshore Marine Tbk",
+	"logo": "https://s3.goapi.id/logo/WINS.jpg"
+  },
+  {
+	"kode": "WIRG",
+	"nama": "PT WIR ASIA Tbk",
+	"logo": "https://s3.goapi.id/logo/WIRG.jpg"
+  },
+  {
+	"kode": "WMPP",
+	"nama": "PT Widodo Makmur Perkasa Tbk",
+	"logo": "https://s3.goapi.id/logo/WMPP.jpg"
+  },
+  {
+	"kode": "WMUU",
+	"nama": "PT Widodo Makmur Unggas Tbk",
+	"logo": "https://s3.goapi.id/logo/WMUU.jpg"
+  },
+  {
+	"kode": "WOMF",
+	"nama": "PT Wahana Ottomitra Multiartha Tbk",
+	"logo": "https://s3.goapi.id/logo/WOMF.jpg"
+  },
+  {
+	"kode": "WOOD",
+	"nama": "PT Integra Indocabinet Tbk",
+	"logo": "https://s3.goapi.id/logo/WOOD.jpg"
+  },
+  {
+	"kode": "WOWS",
+	"nama": "PT Ginting Jaya Energi Tbk",
+	"logo": "https://s3.goapi.id/logo/WOWS.jpg"
+  },
+  {
+	"kode": "WSBP",
+	"nama": "PT Waskita Beton Precast Tbk.",
+	"logo": "https://s3.goapi.id/logo/WSBP.jpg"
+  },
+  {
+	"kode": "WSKT",
+	"nama": "PT Waskita Karya (Persero) Tbk",
+	"logo": "https://s3.goapi.id/logo/WSKT.jpg"
+  },
+  {
+	"kode": "WTON",
+	"nama": "Wijaya Karya Beton",
+	"logo": "https://s3.goapi.id/logo/WTON.jpg"
+  },
+  {
+	"kode": "YELO",
+	"nama": "PT Yelooo Integra Datanet Tbk.",
+	"logo": "https://s3.goapi.id/logo/YELO.jpg"
+  },
+  {
+	"kode": "YPAS",
+	"nama": "Yanaprima Hastapersada Tbk",
+	"logo": "https://s3.goapi.id/logo/YPAS.jpg"
+  },
+  {
+	"kode": "YULE",
+	"nama": "Yulie Sekuritas Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/YULE.jpg"
+  },
+  {
+	"kode": "ZADI",
+	"nama": "PT Asuransi Adira Dinamika Tbk",
+	"logo": "https://s3.goapi.id/logo/ZADI.jpg"
+  },
+  {
+	"kode": "ZATA",
+	"nama": "PT Bersama Zatta Jaya Tbk",
+	"logo": "https://s3.goapi.id/logo/ZATA.jpg"
+  },
+  {
+	"kode": "ZBRA",
+	"nama": "PT Dosni Roha Indonesia Tbk",
+	"logo": "https://s3.goapi.id/logo/ZBRA.jpg"
+  },
+  {
+	"kode": "ZINC",
+	"nama": "PT Kapuas Prima Coal Tbk",
+	"logo": "https://s3.goapi.id/logo/ZINC.jpg"
+  },
+  {
+	"kode": "ZONE",
+	"nama": "PT Mega Perintis Tbk.",
+	"logo": "https://s3.goapi.id/logo/ZONE.jpg"
+  },
+  {
+	"kode": "ZYRX",
+	"nama": "PT Zyrexindo Mandiri Buana Tbk",
+	"logo": "https://s3.goapi.id/logo/ZYRX.jpg"
+  }
+]
