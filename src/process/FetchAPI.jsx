@@ -3,9 +3,7 @@ import React, { useState, useEffect } from 'react';
 function FetchAPI() {
   const [emiten, setEmiten] = useState([]);
   useEffect(() => {
-    fetch(
-      'https://api.goapi.id/v1/stock/idx/companies?api_key=w7paqZoA95Ef7iSmd9DInHZUDNRUFH?_limit=10'
-    )
+    fetch('')
       .then((response) => response.json())
       .then((data) => {
         console.log(data);
