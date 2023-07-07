@@ -26,7 +26,7 @@ function PredictSaham() {
           throw new Error('Failed to fetch prediction data');
         }
         const predictionData = await predictionResponse.json();
-        setPrediction(predictionData.accuracy);
+        setPrediction(predictionData);
 
         setIsLoading(false);
       } catch (error) {
@@ -38,15 +38,25 @@ function PredictSaham() {
   }, [ticker]);
 
   return (
-    <div className='flex items-center justify-center mt-4'>
-      <div className='flex flex-col items-center'>
+    <div className='w-full flex items-center justify-center mt-4'>
+      <div className='w-full max-w-md flex flex-col items-center'>
         {/* Prediction Result Card */}
         <div className='w-full max-w-md mb-3 p-2 border rounded-lg shadow sm:p-6 bg-gray-800 border-gray-700'>
           <h1>Prediksi Untuk Saham {ticker} Hari Ini</h1>
           {isLoading ? (
-            <div className='h-3 w-1/2 bg-gray-600 rounded mt-1 animate-pulse'></div>
+            <div>
+              <div className='h-3 w-1/2 bg-gray-600 rounded mt-1 animate-pulse'></div>
+              <div className='h-3 w-1/2 bg-gray-600 rounded mt-1 animate-pulse'></div>
+            </div>
           ) : (
-            <h1 className='font-bold'>Diprediksikan {prediction} Naik</h1>
+            <div>
+              <h1 className='font-bold'>
+                Diprediksikan {prediction.accuracy} Naik
+              </h1>
+              <h1 className='font-thin'>
+                Dengan Risiko Turun Sebesar {prediction.risk}{' '}
+              </h1>
+            </div>
           )}
         </div>
 

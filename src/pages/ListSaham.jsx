@@ -12,7 +12,7 @@ function ListSaham() {
     )
       .then((response) => response.json())
       .then((data) => {
-        // setEmiten(data.data.results.slice(0, 10));
+        // setEmiten(data.data.results.slice(0, 10)); //Batasi Data Yang Ditarik Hanya Sebanyak 10
         setEmiten(data.data.results);
         setIsLoading(false);
       })
