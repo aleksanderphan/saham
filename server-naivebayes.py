@@ -5,7 +5,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
-from sklearn.metrics import confusion_matrix, precision_score, recall_score, accuracy_score
+from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score, accuracy_score
 
 app = Flask(__name__)
 CORS(app)
@@ -36,15 +36,33 @@ def predict(ticker):
     accuracy = accuracy_score(y_test, predictions) * 100
     risk_percentage = 100 - accuracy
 
+    confusion = confusion_matrix(y_test, predictions)
+
+    # Extract TP, TN, FP, FN from the confusion matrix
+    TP = confusion[1][1]
+    TN = confusion[0][0]
+    FP = confusion[0][1]
+    FN = confusion[1][0]
+
+    accuracy = accuracy_score(y_test, predictions) * 100
+    precision = (TP / (TP + FP)) * 100
+    recall = (TP / (TP + FN)) * 100
+    f1 = (2 * ((precision * recall) / (precision + recall)))
+
     total_predictions = len(y_test)
     correct_predictions = (predictions == y_test).sum()
     explanation = f"Dari semua {total_predictions} contoh, {correct_predictions} diprediksi benar oleh Naive Bayes classifier. "
     explanation += f"Akurasi yang didapatkan sebesar: {accuracy:.2f}%"
-    
   
-    #response
-    response = jsonify({'explanation': explanation, 'accuracy': f"{accuracy:.2f}%", 'risk': f"{risk_percentage:.2f}%"})
-
+    # Response
+    response = jsonify({
+        'explanation': explanation,
+        'accuracy': f"{accuracy:.2f}%",
+        'risk': f"{risk_percentage:.2f}%",
+        'precision': f"{precision:.2f}%",
+        'recall': f"{recall:.2f}%",
+        'f1_score': f"{f1:.2f}%"
+    })
 
     return response
 
