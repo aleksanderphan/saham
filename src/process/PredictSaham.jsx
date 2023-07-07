@@ -5,18 +5,29 @@ function PredictSaham() {
   const { ticker } = useParams();
   const [historyData, setHistoryData] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [prediction, setPrediction] = useState('');
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
+        const historyResponse = await fetch(
           `https://api.goapi.id/v1/stock/idx/${ticker}/historical?&api_key=w7paqZoA95Ef7iSmd9DInHZUDNRUFH`
         );
-        if (!response.ok) {
-          throw new Error('Failed to fetch data');
+        if (!historyResponse.ok) {
+          throw new Error('Failed to fetch historical data');
         }
-        const data = await response.json();
-        setHistoryData(data.data.results);
+        const historyData = await historyResponse.json();
+        setHistoryData(historyData.data.results);
+
+        const predictionResponse = await fetch(
+          `https://naivebayessaham.aleksanderphan.repl.co/predict/${ticker}`
+        );
+        if (!predictionResponse.ok) {
+          throw new Error('Failed to fetch prediction data');
+        }
+        const predictionData = await predictionResponse.json();
+        setPrediction(predictionData.accuracy);
+
         setIsLoading(false);
       } catch (error) {
         console.error(error);
@@ -32,7 +43,11 @@ function PredictSaham() {
         {/* Prediction Result Card */}
         <div className='w-full max-w-md mb-3 p-2 border rounded-lg shadow sm:p-6 bg-gray-800 border-gray-700'>
           <h1>Prediksi Untuk Saham {ticker} Hari Ini</h1>
-          <h1>Diprediksikan: </h1>
+          {isLoading ? (
+            <div className='h-3 w-1/2 bg-gray-600 rounded mt-1 animate-pulse'></div>
+          ) : (
+            <h1 className='font-bold'>Diprediksikan {prediction} Naik</h1>
+          )}
         </div>
 
         {/* History Card */}
