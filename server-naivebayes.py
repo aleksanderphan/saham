@@ -38,8 +38,8 @@ def predict(ticker):
 
     total_predictions = len(y_test)
     correct_predictions = (predictions == y_test).sum()
-    explanation = f"Out of {total_predictions} instances, {correct_predictions} were predicted correctly by the Naive Bayes classifier. "
-    explanation += f"The accuracy of the classifier in predicting the 'status' is: {accuracy:.2f}%"
+    explanation = f"Dari semua {total_predictions} contoh, {correct_predictions} diprediksi benar oleh Naive Bayes classifier. "
+    explanation += f"Akurasi yang didapatkan sebesar: {accuracy:.2f}%"
     
   
     #response
