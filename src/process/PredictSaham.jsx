@@ -41,8 +41,8 @@ function PredictSaham() {
     <div className='w-full flex items-center justify-center mt-4'>
       <div className='w-full max-w-md flex flex-col items-center'>
         {/* Prediction Result Card */}
-        <div className='w-full max-w-md mb-3 p-2 border rounded-lg shadow sm:p-6 bg-gray-800 border-gray-700'>
-          <h1>Prediksi Untuk Saham {ticker} Hari Ini</h1>
+        <div className='w-full max-w-md mb-3 p-2 border rounded-lg shadow sm:p-6 bg-gray-700 border-gray-600'>
+          <h1>Prediksi Untuk Saham {ticker}</h1>
           {isLoading ? (
             <div>
               <div className='h-3 w-1/2 bg-gray-600 rounded mt-1 animate-pulse'></div>
@@ -51,17 +51,17 @@ function PredictSaham() {
           ) : (
             <div>
               <h1 className='font-bold'>
-                Diprediksikan {prediction.accuracy} Naik
+                Diprediksikan {prediction.prediction}
               </h1>
               <h1 className='font-thin'>
-                Dengan Risiko Turun Sebesar {prediction.risk}{' '}
+                Dengan Risiko Turun Sebesar {prediction.probability.Turun}
               </h1>
             </div>
           )}
         </div>
 
         {/* History Card */}
-        <div className='w-full max-w-md mb-28 p-4 border rounded-lg shadow sm:p-6 bg-gray-800 border-gray-700'>
+        <div className='w-full max-w-md mb-28 p-4 border rounded-lg shadow sm:p-6 bg-gray-700 border-gray-600'>
           <div className='flex items-center justify-between'>
             <h5 className='text-lg font-bold leading-none text-white'>
               Histori Saham
