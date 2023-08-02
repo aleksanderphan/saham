@@ -10,24 +10,27 @@ function PredictSaham() {
   useEffect(() => {
     const fetchData = async () => {
       try {
+        // Penarikan Data Saham Terdahulu
         const historyResponse = await fetch(
-          `https://api.goapi.id/v1/stock/idx/${ticker}/historical?&api_key=w7paqZoA95Ef7iSmd9DInHZUDNRUFH`
+          `https://api.goapi.id/v1/stock/idx/${ticker}/historical?from=2017-01-01&to=2030-12-31&api_key=w7paqZoA95Ef7iSmd9DInHZUDNRUFH`
         );
         if (!historyResponse.ok) {
-          throw new Error('Failed to fetch historical data');
+          throw new Error('Data Gagal Untuk Di Inisialisasi.');
         }
         const historyData = await historyResponse.json();
         setHistoryData(historyData.data.results);
 
+        // Memanggil API Prediksi Dari Server
         const predictionResponse = await fetch(
           `https://naivebayessaham.aleksanderphan.repl.co/predict/${ticker}`
         );
         if (!predictionResponse.ok) {
-          throw new Error('Failed to fetch prediction data');
+          throw new Error('Data Gagal Untuk Di Inisialisasi.');
         }
         const predictionData = await predictionResponse.json();
         setPrediction(predictionData);
 
+        //Skeleton Loading
         setIsLoading(false);
       } catch (error) {
         console.error(error);
@@ -40,7 +43,7 @@ function PredictSaham() {
   return (
     <div className='w-full flex items-center justify-center mt-4'>
       <div className='w-full max-w-md flex flex-col items-center'>
-        {/* Prediction Result Card */}
+        {/* Card Hasil Prediksi */}
         <div className='w-full max-w-md mb-3 p-2 border rounded-lg shadow sm:p-6 bg-gray-700 border-gray-600'>
           <h1>Prediksi Untuk Saham {ticker}</h1>
           {isLoading ? (
@@ -51,10 +54,10 @@ function PredictSaham() {
           ) : (
             <div>
               <h1 className='font-bold'>
-                Diprediksikan {prediction.prediction}
+                Diprediksikan {prediction.prediksi === 'T' ? 'Turun' : 'Naik'}
               </h1>
               <h1 className='font-thin'>
-                Dengan Risiko Turun Sebesar {prediction.probability.Turun}
+                Dengan Risiko Turun Sebesar {prediction.probabilitas.Turun}
               </h1>
             </div>
           )}

@@ -6,10 +6,11 @@ function HomeScreen() {
     <section className='h-screen'>
       <div className='flex flex-col justify-center items-center h-full py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16'>
         <h1 className='mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-white'>
-          Judul Projek
+          Prediksi Risiko Kerugian Pergerakan Saham
         </h1>
         <p className='mb-8 text-lg font-normal lg:text-xl sm:px-16 lg:px-48 text-gray-400'>
-          Deskripsi Projek
+          Implementasi Metode Naive Bayes Dalam Prediksi Risiko Kerugian Pada
+          Pergerakan Saham Bursa Efek Indonesia
         </p>
         <div className='flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4'>
           <Link key='prediction' to='/prediction'>
